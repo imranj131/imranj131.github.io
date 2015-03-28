@@ -17,7 +17,7 @@ In the Fall 2014 semester, I attended my first hackathon called WearHacks. As a 
 
 ![WearHacks, Mtl](/assets/wearhacks.jpg)
 
-Thalmic Lab's Myo is a gesture control armband which uses an accelerometer, gyrometer and magnetometer, as well as a sensor to collect electromyographic data from muscles. This data is then conveted to digital signals which can be programmed accordingly. 
+Thalmic Lab's Myo is a gesture control armband which uses an accelerometer, gyrometer and magnetometer, as well as a sensor to collect electromyographic data from muscles. This data is then converted to digital signals which can be programmed accordingly. 
 
 ![First time](/assets/myo-first-time.jpg)
 
