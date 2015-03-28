@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Internet of Things"
+date:   2015-03-13
+link:	
+excerpt: tinkering with hardware to build a smart-home solution 
+color:  "#3471aa"
+bgimage: "./assets/iot.jpg"
+---
+
+## MyoHome Project
+
+In October 2014, I vistied Yale University to attend their hackathon 'YHack'. This time, Jordan Horwich and I built a gesture-controlled smart-home system 'MyoHome'. 
+
+![Intel Board](/assets/intelG.jpg)
+
+Our prototype allows users to control their light as well as their music by simply waving their hand up, down, to the side, etc. 
+
+![Demo](/assets/demo.jpg)
+
+This enabled us to control lighting as well as music by waving out hand up, down, right, left, etc.
+
+
+![Final Ceremony](/assets/presentations.jpg)
+
+Our demo at the presentation ceromany was incredible and we were placed 1st place from Intel for the most innovative project!
+
+![YHack, Yale](/assets/myo-home-collage.jpg)
+
+Here's our prototype filmed the night before the submission!
+
+<div class="embed-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/couLh0OFTwQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+

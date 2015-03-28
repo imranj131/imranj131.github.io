@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Imran Jameel</title>
+    <description>Hey there, I&#39;m Imran. I like making cool things with cool people.
+</description>
+    <link>localhost:4000/</link>
+    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 28 Mar 2015 17:39:30 -0400</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2015 17:39:30 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Wearable Tech</title>
+        <description>&lt;!--
+http://www.designboom.com/wp-content/uploads/2013/02/myo01.jpg
+--&gt;
+&lt;p&gt;## MyoMusic Project&lt;/p&gt;
+
+&lt;p&gt;In the Fall 2014 semester, I attended my first hackathon called WearHacks. As a wearable tech enthusiast, I was beyond exited to be surrounded by people with similar interests and have access to top hardware. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/wearhacks.jpg&quot; alt=&quot;WearHacks, Mtl&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thalmic Lab’s Myo is a gesture control armband which uses an accelerometer, gyrometer and magnetometer, as well as a sensor to collect electromyographic data from muscles. This data is then conveted to digital signals which can be programmed accordingly. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/myo-first-time.jpg&quot; alt=&quot;First time&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In addition to tech, I’m also a musician and I’ve always thought of how I could integrate both of these passions together. &lt;/p&gt;
+
+&lt;p&gt;We used this armband to create a virtual musical instrument which allows a user to play various musical instruments such as a drum, a guitar or a violin. &lt;/p&gt;
+
+&lt;p&gt;We: Jeremy Schembri, Lucie Belanger, Brian Zhu, Victor Dyotte, Alex Gagnon (L to R)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/myo-music-team.jpg&quot; alt=&quot;MyoMusic Team&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;presenting-at-the-closing-ceromony-of-wearhacks-2014&quot;&gt;Presenting at the closing ceromony of WearHacks 2014.&lt;/h2&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/tgOT_ynab4/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;#MyoMusic bringing in the virtual music! #iWantit #iNeedIt #wearhacks&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A video posted by Imane (@imanehaf) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2014-09-28T21:00:31+00:00&quot;&gt;Sep 28, 2014 at 2:00pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;presenting-at-the-techd-montreal&quot;&gt;Presenting at the Tech@D, Montreal.&lt;/h2&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/zl6i_PwWYg/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;You &amp;#34;rock&amp;#34; guys! what a demo #MyoMusic!! the #WearHacks2014 team killiing it at #TechD !! #montreal #wearables #Hackathon @thalmic #Myo&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A video posted by WearHacks (@wearhacks) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-02-27T05:11:37+00:00&quot;&gt;Feb 26, 2015 at 9:11pm PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/zlWLjKwWQa/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;the #wearhacks team #myomusic presenting at #techD tonight! sick demo!! you rock guys!! @thalmic #Montreal #myo #wearables #wearabletech #hackathon&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A video posted by WearHacks (@wearhacks) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-02-26T23:53:50+00:00&quot;&gt;Feb 26, 2015 at 3:53pm PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;myomusic-interview-at-the-wearewearables-toronto&quot;&gt;MyoMusic interview at the WeAreWearables, Toronto.&lt;/h2&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SbRWBkleReE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 15 Mar 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/wearabletech</link>
+        <guid isPermaLink="true">localhost:4000/wearabletech</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Internet of Things</title>
+        <description>&lt;h2 id=&quot;myohome-project&quot;&gt;MyoHome Project&lt;/h2&gt;
+
+&lt;p&gt;In October 2014, I vistied Yale University to attend their hackathon ‘YHack’. This time, Jordan Horwich and I built a gesture-controlled smart-home system ‘MyoHome’. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/intelG.jpg&quot; alt=&quot;Intel Board&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our prototype allows users to control their light as well as their music by simply waving their hand up, down, to the side, etc. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/demo.jpg&quot; alt=&quot;Demo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This enabled us to control lighting as well as music by waving out hand up, down, right, left, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/presentations.jpg&quot; alt=&quot;Final Ceremony&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our demo at the presentation ceromany was incredible and we were placed 1st place from Intel for the most innovative project!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/myo-home-collage.jpg&quot; alt=&quot;YHack, Yale&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s our prototype filmed the night before the submission!&lt;/p&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/couLh0OFTwQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Fri, 13 Mar 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/iot</link>
+        <guid isPermaLink="true">localhost:4000/iot</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Prosthetics</title>
+        <description>&lt;!--
+http://cdn.slashgear.com/wp-content/uploads/2014/03/solidooldle-820x420.jpg
+--&gt;
+</description>
+        <pubDate>Thu, 12 Mar 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/prosthetics</link>
+        <guid isPermaLink="true">localhost:4000/prosthetics</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>FeetBeats</title>
+        <description>
+</description>
+        <pubDate>Mon, 09 Mar 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/feetbeats</link>
+        <guid isPermaLink="true">localhost:4000/feetbeats</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CUTC</title>
+        <description>&lt;!--
+http://www.seetorontonow.com/App_Themes/tourismtoronto/images/about-tourism-toronto.jpg
+--&gt;
+</description>
+        <pubDate>Sun, 01 Feb 2015 00:00:00 -0500</pubDate>
+        <link>localhost:4000/cutc</link>
+        <guid isPermaLink="true">localhost:4000/cutc</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>3M RPM</title>
+        <description>&lt;!--
+http://web.stanford.edu/group/neurostudents/cgi-bin/wordpress/wp-content/uploads/2013/06/Ennis-Flint_Marker4.jpg
+--&gt;
+</description>
+        <pubDate>Mon, 15 Sep 2014 00:00:00 -0400</pubDate>
+        <link>localhost:4000/3M</link>
+        <guid isPermaLink="true">localhost:4000/3M</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Erudite</title>
+        <description>&lt;!--
+http://sites.udel.edu/econseminar/files/2011/12/cropped-UDigital_723_DonaldKohn-14-scr1.jpg
+--&gt;
+</description>
+        <pubDate>Sat, 17 May 2014 00:00:00 -0400</pubDate>
+        <link>localhost:4000/erudite</link>
+        <guid isPermaLink="true">localhost:4000/erudite</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+# Site settings
+title: Imran Jameel
+email: imran.jameel@mail.mcgill.ca
+description: > # this means to ignore newlines until "baseurl:"
+  Hey there, I'm Imran. I like making cool things with cool people.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "localhost:4000" # the base hostname & protocol for your site
+permalink: /:title # example: http://jhil.co/bitcamp
+timezone: America/New_York
+
+# Social
+twitter_username:	imranj131
+linkedin_username:	ijameel	
+github_username:	imranj131
+medium_username:	imranjameel	
+
+# Build settings
+markdown: kramdown
+
+# Alias
+pipe:	{{ page.title | prepend: "/assets/" }}

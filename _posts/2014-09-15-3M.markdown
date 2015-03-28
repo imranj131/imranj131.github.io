@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "3M RPM"
+date:   2014-09-15
+link:	
+excerpt: feasibility study of 3M raised pavement markers in traffic safety
+color:  "#FF6F3F"
+bgimage: "./assets/rpm.jpg"
+
+---
+
+<!--
+http://web.stanford.edu/group/neurostudents/cgi-bin/wordpress/wp-content/uploads/2013/06/Ennis-Flint_Marker4.jpg
+-->

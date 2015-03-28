@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CUTC"
+date:   2015-02-01
+link:	www.cutc.ca
+excerpt: Canadian Undergraduate Technology Conference
+color:	"#f47171"
+bgimage: "./assets/toronto.jpg"
+---
+
+<!--
+http://www.seetorontonow.com/App_Themes/tourismtoronto/images/about-tourism-toronto.jpg
+-->
