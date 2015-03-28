@@ -10,7 +10,8 @@ bgimage: "./assets/myo.jpg"
 <!--
 http://www.designboom.com/wp-content/uploads/2013/02/myo01.jpg
 -->
-##MyoMusic Project
+
+##MyoMusic Project 
 
 
 In the Fall 2014 semester, I attended my first hackathon called WearHacks. As a wearable tech enthusiast, I was beyond exited to be surrounded by people with similar interests and have access to top hardware. 
