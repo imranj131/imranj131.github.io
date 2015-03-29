@@ -6,8 +6,8 @@
 </description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 28 Mar 2015 17:39:30 -0400</pubDate>
-    <lastBuildDate>Sat, 28 Mar 2015 17:39:30 -0400</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2015 12:36:13 -0400</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2015 12:36:13 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -15,13 +15,15 @@
         <description>&lt;!--
 http://www.designboom.com/wp-content/uploads/2013/02/myo01.jpg
 --&gt;
-&lt;p&gt;## MyoMusic Project&lt;/p&gt;
 
-&lt;p&gt;In the Fall 2014 semester, I attended my first hackathon called WearHacks. As a wearable tech enthusiast, I was beyond exited to be surrounded by people with similar interests and have access to top hardware. &lt;/p&gt;
+&lt;h2 id=&quot;myomusic-project&quot;&gt;MyoMusic Project&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/wearhacks.jpg&quot; alt=&quot;WearHacks, Mtl&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;In the Fall 2014 semester, I attended my first hackathon called &lt;a href=&quot;http://wearhacks.com/&quot; title=&quot;Title&quot;&gt;WearHacks&lt;/a&gt;. As a wearable tech enthusiast, I was beyond exited to be surrounded by people with similar interests and have access to top hardware. &lt;/p&gt;
 
-&lt;p&gt;Thalmic Lab’s Myo is a gesture control armband which uses an accelerometer, gyrometer and magnetometer, as well as a sensor to collect electromyographic data from muscles. This data is then conveted to digital signals which can be programmed accordingly. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/oldport.jpg&quot; alt=&quot;OldPort, Mtl&quot; /&gt;
+&lt;img src=&quot;/assets/wearhacks.jpg&quot; alt=&quot;WearHacks, Mtl&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thalmic.com/&quot; title=&quot;Title&quot;&gt;Thalmic Lab’s Myo&lt;/a&gt; is a gesture control armband which uses an accelerometer, gyrometer and magnetometer, as well as a sensor to collect electromyographic data from muscles. This data is then converted to digital signals which can be programmed accordingly. &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/myo-first-time.jpg&quot; alt=&quot;First time&quot; /&gt;&lt;/p&gt;
 
@@ -29,24 +31,37 @@ http://www.designboom.com/wp-content/uploads/2013/02/myo01.jpg
 
 &lt;p&gt;We used this armband to create a virtual musical instrument which allows a user to play various musical instruments such as a drum, a guitar or a violin. &lt;/p&gt;
 
-&lt;p&gt;We: Jeremy Schembri, Lucie Belanger, Brian Zhu, Victor Dyotte, Alex Gagnon (L to R)&lt;/p&gt;
+&lt;p&gt;It was a great experience and we ended up winning first place from Thalmic Labs! &lt;/p&gt;
+
+&lt;p&gt;We also had the privilege of presenting MyoMusic at various events across Canada.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/myo-music-team.jpg&quot; alt=&quot;MyoMusic Team&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;presenting-at-the-closing-ceromony-of-wearhacks-2014&quot;&gt;Presenting at the closing ceromony of WearHacks 2014.&lt;/h2&gt;
+&lt;p&gt;We: Jeremy Schembri, Lucie Belanger, Brian Zhu, Victor Dyotte, Alex Gagnon (L to R)&lt;/p&gt;
+
+&lt;h2 id=&quot;closing-ceremony-demo-wearhacks&quot;&gt;Closing ceremony demo, WearHacks.&lt;/h2&gt;
 
 &lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/tgOT_ynab4/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;#MyoMusic bringing in the virtual music! #iWantit #iNeedIt #wearhacks&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A video posted by Imane (@imanehaf) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2014-09-28T21:00:31+00:00&quot;&gt;Sep 28, 2014 at 2:00pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
 
-&lt;h2 id=&quot;presenting-at-the-techd-montreal&quot;&gt;Presenting at the Tech@D, Montreal.&lt;/h2&gt;
+&lt;h2 id=&quot;presentations&quot;&gt;Presentations&lt;/h2&gt;
+
+&lt;h2 id=&quot;google-montrealhttpgooglecom-title&quot;&gt;&lt;a href=&quot;http://google.com/&quot; title=&quot;Title&quot;&gt;Google Montreal&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/googlepres.jpeg&quot; alt=&quot;MyoMusic Google&quot; /&gt;
+&lt;img src=&quot;/assets/gmtl.jpg&quot; alt=&quot;MyoMusic Google&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;techd-montrealhttptech-dorg-title&quot;&gt;&lt;a href=&quot;http://tech-d.org/&quot; title=&quot;Title&quot;&gt;Tech@D, Montreal&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/techd.jpg&quot; alt=&quot;Tech@D, Mtl&quot; /&gt;
+&lt;img src=&quot;/assets/techd2.jpg&quot; alt=&quot;Tech@D, Mtl&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/zl6i_PwWYg/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;You &amp;#34;rock&amp;#34; guys! what a demo #MyoMusic!! the #WearHacks2014 team killiing it at #TechD !! #montreal #wearables #Hackathon @thalmic #Myo&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A video posted by WearHacks (@wearhacks) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-02-27T05:11:37+00:00&quot;&gt;Feb 26, 2015 at 9:11pm PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
 
-&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/zlWLjKwWQa/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;the #wearhacks team #myomusic presenting at #techD tonight! sick demo!! you rock guys!! @thalmic #Montreal #myo #wearables #wearabletech #hackathon&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A video posted by WearHacks (@wearhacks) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-02-26T23:53:50+00:00&quot;&gt;Feb 26, 2015 at 3:53pm PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+&lt;h2 id=&quot;wearewearables-torontohttpswwwwearewearblescom-title&quot;&gt;&lt;a href=&quot;https://www.wearewearbles.com/&quot; title=&quot;Title&quot;&gt;WeAreWearables, Toronto&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h2 id=&quot;myomusic-interview-at-the-wearewearables-toronto&quot;&gt;MyoMusic interview at the WeAreWearables, Toronto.&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/wwto.jpg&quot; alt=&quot;WWTO&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
     &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SbRWBkleReE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -64,7 +79,7 @@ http://www.designboom.com/wp-content/uploads/2013/02/myo01.jpg
         <title>Internet of Things</title>
         <description>&lt;h2 id=&quot;myohome-project&quot;&gt;MyoHome Project&lt;/h2&gt;
 
-&lt;p&gt;In October 2014, I vistied Yale University to attend their hackathon ‘YHack’. This time, Jordan Horwich and I built a gesture-controlled smart-home system ‘MyoHome’. &lt;/p&gt;
+&lt;p&gt;In October 2014, I vistied Yale University to attend their hackathon &lt;a href=&quot;http://yhack.org/&quot; title=&quot;Title&quot;&gt;YHack&lt;/a&gt;. This time, Jordan Horwich and I built a gesture-controlled smart-home system ‘MyoHome’. &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/intelG.jpg&quot; alt=&quot;Intel Board&quot; /&gt;&lt;/p&gt;
 
@@ -76,7 +91,7 @@ http://www.designboom.com/wp-content/uploads/2013/02/myo01.jpg
 
 &lt;p&gt;&lt;img src=&quot;/assets/presentations.jpg&quot; alt=&quot;Final Ceremony&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Our demo at the presentation ceromany was incredible and we were placed 1st place from Intel for the most innovative project!&lt;/p&gt;
+&lt;p&gt;Our demo at the presentation ceremony was incredible and we were placed &lt;a href=&quot;http://challengepost.com/software/myohome-2rd97/&quot; title=&quot;Title&quot;&gt;1st place from Intel for the most innovative project!&lt;/a&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/myo-home-collage.jpg&quot; alt=&quot;YHack, Yale&quot; /&gt;&lt;/p&gt;
 
