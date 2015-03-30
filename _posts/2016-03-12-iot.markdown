@@ -18,20 +18,21 @@ Our prototype allows users to control their light as well as their music by simp
 
 ![Demo](/assets/demo.jpg)
 
-This enabled us to control lighting as well as music by waving out hand up, down, right, left, etc.
+The one thing I learnt that weekend was that the best way to predict the future is indeed to create it!
 
 
 ![Final Ceremony](/assets/presentations.jpg)
 
 Our demo at the presentation ceremony was incredible and we were placed [1st place from Intel for the most innovative project!](http://challengepost.com/software/myohome-2rd97/ "Title") 
 
+
 ![YHack, Yale](/assets/myo-home-collage.jpg)
 
-Here's our prototype filmed the night before the submission!
+
+##Smart-Home Protoype
 
 <div class="embed-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/couLh0OFTwQ" frameborder="0" allowfullscreen></iframe>
 </div>
-
 
 

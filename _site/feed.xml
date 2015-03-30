@@ -6,8 +6,8 @@
 </description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 29 Mar 2015 12:36:13 -0400</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2015 12:36:13 -0400</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2015 20:30:52 -0400</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2015 20:30:52 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -87,7 +87,7 @@ http://www.designboom.com/wp-content/uploads/2013/02/myo01.jpg
 
 &lt;p&gt;&lt;img src=&quot;/assets/demo.jpg&quot; alt=&quot;Demo&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This enabled us to control lighting as well as music by waving out hand up, down, right, left, etc.&lt;/p&gt;
+&lt;p&gt;The one thing I learnt that weekend was that the best way to predict the future is indeed to create it!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/presentations.jpg&quot; alt=&quot;Final Ceremony&quot; /&gt;&lt;/p&gt;
 
@@ -95,7 +95,7 @@ http://www.designboom.com/wp-content/uploads/2013/02/myo01.jpg
 
 &lt;p&gt;&lt;img src=&quot;/assets/myo-home-collage.jpg&quot; alt=&quot;YHack, Yale&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Here’s our prototype filmed the night before the submission!&lt;/p&gt;
+&lt;h2 id=&quot;smart-home-protoype&quot;&gt;Smart-Home Protoype&lt;/h2&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
     &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/couLh0OFTwQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -129,19 +129,6 @@ http://cdn.slashgear.com/wp-content/uploads/2014/03/solidooldle-820x420.jpg
         <pubDate>Mon, 09 Mar 2015 00:00:00 -0400</pubDate>
         <link>localhost:4000/feetbeats</link>
         <guid isPermaLink="true">localhost:4000/feetbeats</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>CUTC</title>
-        <description>&lt;!--
-http://www.seetorontonow.com/App_Themes/tourismtoronto/images/about-tourism-toronto.jpg
---&gt;
-</description>
-        <pubDate>Sun, 01 Feb 2015 00:00:00 -0500</pubDate>
-        <link>localhost:4000/cutc</link>
-        <guid isPermaLink="true">localhost:4000/cutc</guid>
         
         
       </item>
