@@ -8,7 +8,7 @@
 
 	<!-- title -->
 
-	<title>Imran Jameel</title>
+	<title>Biometric Clothing - Imran Jameel</title>
 
 	<meta name="description" content="Hey there, I'm Imran. I like making cool things with cool people.
 ">
@@ -19,11 +19,11 @@
 
 	<!-- favicon -->
 
-	<link rel="icon" type="image/png" href="/favicon/favicon_png" />
+	<link rel="icon" type="image/png" href="/favicon/favicon_biometric-clothing.png" />
 
 	<!-- [no idea] -->
 
-	<link rel="canonical" href="localhost:4000/about.html">
+	<link rel="canonical" href="localhost:4000/sensock">
 
 	<!-- google fonts -->
 
@@ -43,14 +43,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@imranj131">
 <meta name="twitter:creator" content="@imranj131">
-<meta name="twitter:title" content="Imran Jameel">
+<meta name="twitter:title" content="Biometric Clothing">
 <meta name="twitter:description" content="Hey there, I'm Imran. I like making cool things with cool people.
 ">
 <meta name="twitter:image:src" content="localhost:4000/img/zedit1.jpg">
 
 <!-- Facebook Open Graph -->
 
-<meta property="og:title" content="Imran Jameel" />
+<meta property="og:title" content="Biometric Clothing" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="localhost:4000" />
 <meta property="og:image" content="localhost:4000/img/zedit1.jpg" />
@@ -133,46 +133,91 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <!DOCTYPE html>
-<html lang="en"></html>
-<head>
+         <style type="text/css">
+ 
+	 .post-title {
+	 	color: #3471aa;
+	 }
+	 
+	 a, a:visited {
+	 	color: #3471aa;
+	 }
 
-  <title>Imran Jameel</title>
+	 a:hover {
+	 	color: #3471aa;
+	 }
 
-<style>
+	 ::selection {
+	   background: #3471aa; /* WebKit/Blink Browsers */
+	 }
+	 ::-moz-selection {
+	   background: #3471aa; /* Gecko Browsers */
+	 }
 
-  #words {
-    text-align: center;
-    width: 100%;
-    margin: 0 auto;
-    font-size: 30px;
-  }
+ </style>
 
-</style>
 
-</head>
-<body>
+<div class="post">
 
-  
-     <div id="words">
-      <h4> Hi, I'm Imran. </h4>
-    </div>
+  <header class="post-header text-center">
+    <h1 class="post-title">Biometric Clothing</h1>
+    <p class="post-meta"><a target="_blank" href="http://https://sensock.github.io">https://sensock.github.io</a></p>
+    <p class="post-meta">2015</p>
+    <p></p>
 
-  <p> I'm a Mechanical Engineering student at <a href="https://www.mcgill.ca">McGill Univesity</a> with a concentration in Design and a minor in Technological Entrepreneurship. </p>
 
-  <p>I was born, and grew up in <a href="https://www.google.ca/maps/place/Sri+Lanka/data=!4m2!3m1!1s0x3ae2593cf65a1e9d:0xe13da4b400e2d38c?sa=X&ei=UUsXVarnJ4aYNoO3g9AN&ved=0CBwQ8gEwAA">Colombo, Sri Lanka</a> and I now live in Montreal, Canada. </p>
+  </header>
 
-  <p>From my childhood, I have had an entrepreneurial mind and this always made me insatiably curious to find innovative solutions to solve compelling problems. </p>
+  <article class="post-content">
+    <h2 id="sensock">SENSOCK</h2>
 
-  <p>I am driven by my deep passion for engineering and technology, and I get immense satisfaction by trying to apply it in a way that can benefit society at large. </p>
+<p>In May 2015, I visited Toronto to attend the WearHacks Toronto hackathon <a href="https://wearhackstoronto.splashthat.com//" title="Title">WearHacks</a>. My partner, Rashad Ajward and I built a smart sock with an integrated biometric sensor system, ‘Sensock’ to faciliate the evergrowing idea of Remote Patient Monitoring. </p>
 
-  <p>I have experience in Product Design, Hardware Integration, Project Management and IT Consulting. </p>
+<p><img src="/assets/hackathon.jpg" alt="Hackathon" /></p>
 
-  <p>I also have a passion for tinkering and building cool stuff. </p>
-  
-  <p>You can check some of my projects <u><a href="http://www.imranjameel.com/projects">here.</a></u></p>
-</body>
+<p><img src="/assets/workstation.jpg" alt="Workstation" /></p>
 
+<h2 id="idea">Idea</h2>
+
+<p>Remote health monitoring solutions combine specialized hardware and software to collect various biometric data from an individual. Whether its assisting patients suffering from a chronic illness or recovering from a hospital stay, consumers who want to actively manage their personal fitness, or families wishing to keep track of a loved one with some level of physical impairment. Thus, the selection of remote monitoring solutions continues to grow at a rapid rate.</p>
+
+<p>Furthermore, with the growing solutions with Wearable Technology and the the Internet of Things, we realised most biometric data would be collected off wearables such as fitness trackers and smartwatches. </p>
+
+<p>However, as we focus on a different demographic, i.e. patients and elders, we realised the need for wearables that are non obstrusive and non invstrusive. Patients don’t like being reminded that they are sick, and therefore the existing wearable technology solutions in the case of medical monitoring do not act in the favor of the patient, but rather is uncomfortable and is a pain to the patient.</p>
+
+<p>Thus tapping into a simple ubiquitous garment such as a sock, that we all wear socks on a daily basis, we builded a sensor network within existing socks. </p>
+
+<p>In our solution, <a href="https://sensock.github.io///" title="Title">SENSOCK</a>, a hospital care giver, a doctor or a loved one can have access to this biometric data at any point in time and doesn’t have to be physically present in the patient’s room to review the readings. This acts as an effective early warning system, identifying problems or issues early enough to prevent the need for dangerous circumstances.</p>
+
+<h2 id="tinkering">Tinkering</h2>
+
+<p>In order to embed our microprocessor into the sock, we used a Arduino Lillypad, designed for textiles and wearables. (Yes, we learnt how to sew!)</p>
+
+<p><img src="/assets/textilearduino.jpg" alt="Arduino" /></p>
+
+<p>Building <a href="https://sensock.github.io///" title="Title">SENSOCK</a> required a lot of planning, soldering, breadboard circuitry, programming and coffee. </p>
+
+<p><img src="/assets/team1.jpg" alt="TeamWork1" /></p>
+
+<p>After burning various sensors, and after multiple visits to <a href="https://www.creatroninc.com///" title="Title">Creatron Inc</a> and <a href="http://www.homehardware.ca/en/index.htm///" title="Title">Hardware Home</a>, we were finally able to build a sensor network which could read data off a human!</p>
+
+<p><img src="/assets/sensockbuild.jpg" alt="TeamWork2" /></p>
+
+<p>In addition to building the hardware, we implemented two APIs. <a href="https://plot.ly////" title="Title">Plotly</a> for data visualisation of the biometrics in real time, and <a href="https://www.twilio.com///" title="Title">Twillio</a> for emegency text message paging upon tapping one’s foot on the side of the door.</p>
+
+<h2 id="prototype">Prototype</h2>
+
+<p><img src="/assets/sensockprototype1.jpg" alt="Final protoype1" /></p>
+
+<p><img src="/assets/sensockcloseup.jpg" alt="Final protoype2" /></p>
+
+<h2 id="team">Team</h2>
+
+<p><img src="/assets/team2.jpg" alt="DreamTeam" /></p>
+
+  </article>
+
+</div>
 
       </div>
     </div>
