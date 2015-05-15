@@ -22,7 +22,7 @@ Remote health monitoring solutions combine specialized hardware and software to 
 
 Furthermore, with the growing solutions with Wearable Technology and the the Internet of Things, we realised most biometric data would be collected off wearables such as fitness trackers and smartwatches. 
 
-However, as we focus on a different demographic, i.e. patients and elders, we realised the need for wearables that are non obstrusive and non invstrusive. Patients don't like being reminded that they are sick, and therefore the existing wearable technology solutions in the case of medical monitoring do not act in the favor of the patient, but rather is uncomfortable and is a pain to the patient.
+However, as we focus on a different demographic, i.e. patients and elders, we realised the need for wearables that are non obstrusive and non instrusive. Patients don't like being reminded that they are sick, and therefore the existing wearable technology solutions in the case of medical monitoring do not act in the favor of the patient, but rather is uncomfortable and is a pain to the patient.
 
 Thus tapping into a simple ubiquitous garment such as a sock, that we all wear socks on a daily basis, we builded a sensor network within existing socks. 
 
