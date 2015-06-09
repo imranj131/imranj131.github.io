@@ -241,3 +241,7 @@ a.post-link {
 ::-moz-selection {
   background-color: #cccccc;
   color: #ffffff; }
+
+[href="/brainsoother"] {
+  background-repeat: no-repeat;
+  background-position: 50%; }

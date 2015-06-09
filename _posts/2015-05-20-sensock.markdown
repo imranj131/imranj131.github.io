@@ -34,7 +34,7 @@ In order to embed our microprocessor into the sock, we used a Arduino Lillypad, 
 
 ![Arduino](/assets/textilearduino.jpg)
 
-Building [SENSOCK](https://sensock.github.io/// "Title") required a lot of planning, soldering, breadboard circuitry, programming and coffee. 
+Building [SENSOCK](https://sensock.github.io/// "Title") required a lot of planning, sol eadboard circuitry, programming and coffee. 
 
 ![TeamWork1](/assets/team1.jpg)
 
