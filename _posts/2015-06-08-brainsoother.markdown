@@ -16,7 +16,7 @@ A brain-computer interface is a direct communication pathway between the brain a
 
 As brain and other biometric measures are obtained, rapid analysis of the information is converted into graphical displays of the individual’s cognitive, emotional, and stress states. Cloud-based computing allows for near real-time display and analysis of the results. This system allows doctors to quickly measure the brain and then safely modulate certain regions using various techniques.
 
-One approach is the use of transcranial direct current stimulation (tDCS), a form of neuro-stimulation using constant, low current delivered directly to a specific area of the brain via small electrodes. However, the appraoch we chose instead uses visual stimualtion to generate electrical activity at the same frequency, thus imitating the stimuli.
+One approach is the use of transcranial direct current stimulation (tDCS), a form of neuro-stimulation using constant, low current delivered directly to a specific area of the brain via small electrodes. However, the approach we chose instead uses visual stimualtion to generate electrical activity at the same frequency, thus imitating the stimuli.
 
 In neurology, Steady State Visually Evoked Potentials (SSVEP) are signals that are natural responses to visual stimulation at specific frequencies. When the retina is excited by a visual stimulus ranging from 3.5 Hz to 75 Hz, the brain generates electrical activity at the same (or multiples of) frequency of the visual stimulus.
 
