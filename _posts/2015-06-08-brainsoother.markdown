@@ -43,7 +43,7 @@ We believe we are moving into a post-pharmaceutical age in the treatment of neur
 
 In order to achieve this we used an [openBCI](http://www.openbci.com// "Title"), scraped the data, analysed it, ran a Fast Fourier Transform (FFT) on it and used this frequency to create a visual and auditory stimulus on a web app. 
 
-In terms of hardware, openBCI was easy to set up, had a great GUI, a helpful developer community, was fleixble in terms of use cases and I would totally recommend it!
+In terms of hardware, openBCI was easy to set up, had a great GUI, a helpful developer community (Thanks [Conor](https://twitter.com/russomanno15 // "Title")!), was fleixble in terms of use cases and I would totally recommend it to makers and tinkerers in the human-computer interaction domain! 
 
 We used flickering red lights to create an imperceptible flickering visual stimulus that can elicit a strong SSVEP. 
 

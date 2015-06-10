@@ -6,8 +6,8 @@
 </description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 09 Jun 2015 20:43:36 -0400</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2015 20:43:36 -0400</lastBuildDate>
+    <pubDate>Tue, 09 Jun 2015 21:01:50 -0400</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2015 21:01:50 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -197,7 +197,7 @@ http://www.designboom.com/wp-content/uploads/2013/02/myo01.jpg
 
 &lt;p&gt;In order to achieve this we used an &lt;a href=&quot;http://www.openbci.com//&quot; title=&quot;Title&quot;&gt;openBCI&lt;/a&gt;, scraped the data, analysed it, ran a Fast Fourier Transform (FFT) on it and used this frequency to create a visual and auditory stimulus on a web app. &lt;/p&gt;
 
-&lt;p&gt;In terms of hardware, openBCI was easy to set up, had a great GUI, a helpful developer community, was fleixble in terms of use cases and I would totally recommend it!&lt;/p&gt;
+&lt;p&gt;In terms of hardware, openBCI was easy to set up, had a great GUI, a helpful developer community (Thanks &lt;a href=&quot;https://twitter.com/russomanno15 //&quot; title=&quot;Title&quot;&gt;Conor&lt;/a&gt;!), was fleixble in terms of use cases and I would totally recommend it to makers and tinkerers in the human-computer interaction domain! &lt;/p&gt;
 
 &lt;p&gt;We used flickering red lights to create an imperceptible flickering visual stimulus that can elicit a strong SSVEP. &lt;/p&gt;
 
