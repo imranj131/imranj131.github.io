@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Big Data"
+title:  "Open Data"
 date:   2015-03-13
 link:	aiyotech.github.io/perfectcity.aiyo/about.html
 excerpt: using open data to recommend the best city for you 
