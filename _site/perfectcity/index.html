@@ -8,7 +8,7 @@
 
 	<!-- title -->
 
-	<title>B C I - Imran Jameel</title>
+	<title>Open Data - Imran Jameel</title>
 
 	<meta name="description" content="Hey there, I'm Imran. I like making cool things with cool people.
 ">
@@ -19,11 +19,11 @@
 
 	<!-- favicon -->
 
-	<link rel="icon" type="image/png" href="/favicon/favicon_b-c-i.png" />
+	<link rel="icon" type="image/png" href="/favicon/favicon_open-data.png" />
 
 	<!-- [no idea] -->
 
-	<link rel="canonical" href="localhost:4000/brainsoother">
+	<link rel="canonical" href="localhost:4000/perfectcity">
 
 	<!-- google fonts -->
 
@@ -43,14 +43,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@imranj131">
 <meta name="twitter:creator" content="@imranj131">
-<meta name="twitter:title" content="B C I">
+<meta name="twitter:title" content="Open Data">
 <meta name="twitter:description" content="Hey there, I'm Imran. I like making cool things with cool people.
 ">
 <meta name="twitter:image:src" content="localhost:4000/img/zedit1.jpg">
 
 <!-- Facebook Open Graph -->
 
-<meta property="og:title" content="B C I" />
+<meta property="og:title" content="Open Data" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="localhost:4000" />
 <meta property="og:image" content="localhost:4000/img/zedit1.jpg" />
@@ -136,22 +136,22 @@
          <style type="text/css">
  
 	 .post-title {
-	 	color: #000000;
+	 	color: #3471aa;
 	 }
 	 
 	 a, a:visited {
-	 	color: #000000;
+	 	color: #3471aa;
 	 }
 
 	 a:hover {
-	 	color: #000000;
+	 	color: #3471aa;
 	 }
 
 	 ::selection {
-	   background: #000000; /* WebKit/Blink Browsers */
+	   background: #3471aa; /* WebKit/Blink Browsers */
 	 }
 	 ::-moz-selection {
-	   background: #000000; /* Gecko Browsers */
+	   background: #3471aa; /* Gecko Browsers */
 	 }
 
  </style>
@@ -160,8 +160,8 @@
 <div class="post">
 
   <header class="post-header text-center">
-    <h1 class="post-title">B C I</h1>
-    
+    <h1 class="post-title">Open Data</h1>
+    <p class="post-meta"><a target="_blank" href="http://aiyotech.github.io/perfectcity.aiyo/about.html">aiyotech.github.io/perfectcity.aiyo/about.html</a></p>
     <p class="post-meta">2015</p>
     <p></p>
 
@@ -169,51 +169,9 @@
   </header>
 
   <article class="post-content">
-    <p>In June 2015, I attended <a href="http://angelhack.com/hackathon/montreal-2015//" title="Title">Angel Hacks</a> in Montreal. My team (Philippe Castonguay, Yusaira Khan, Maksim Sen) and I built a BCI application called ‘Brain Soother’. </p>
+    <p>Take the Quiz to find out the best city for you <a href="http://aiyotech.github.io/perfectcity.aiyo/index.html">here</a>!</p>
 
-<h2 id="brain-computer-interface-bci">Brain Computer Interface (BCI)</h2>
-
-<p>A brain-computer interface is a direct communication pathway between the brain and an external device with the purpose of assisting, augmenting, or repairing cognitive and/or motor functions.  The computer measures electrical activity in the brain by means of an electroencephalogram (EEG) and interprets the signals for display.</p>
-
-<p>As brain and other biometric measures are obtained, rapid analysis of the information is converted into graphical displays of the individual’s cognitive, emotional, and stress states. Cloud-based computing allows for near real-time display and analysis of the results. This system allows doctors to quickly measure the brain and then safely modulate certain regions using various techniques.</p>
-
-<p>One approach is the use of transcranial direct current stimulation (tDCS), a form of neuro-stimulation using constant, low current delivered directly to a specific area of the brain via small electrodes. However, the approach we chose instead uses visual stimulation to generate electrical activity at the same frequency, thus imitating the stimuli.</p>
-
-<p>In neurology, Steady State Visually Evoked Potentials (SSVEP) are signals that are natural responses to visual stimulation at specific frequencies. When the retina is excited by a visual stimulus ranging from 3.5 Hz to 75 Hz, the brain generates electrical activity at the same (or multiples of) frequency of the visual stimulus.</p>
-
-<p>We used the science behind SSVEP in order to evoke signals to test our goal of reducing stress and inducing calmness in users. In addition to a visual stimuli, we used auditory stimuli at the same frequency to test our hypothesis. In the future we would like to explore stimulating the human brain using more senses such as haptics in order to work towards a healthier brain.</p>
-
-<p><img src="/assets/bci_devices.jpg" alt="Hackathon" /></p>
-
-<h2 id="motivation">Motivation</h2>
-
-<p>More than <a href="http://www.newyorker.com/tech/elements/the-psychiatric-drug-crisis //" title="Title">20 percent of Americans regularly consume prescribed drugs related to mental health issues</a>, earning contemporary America the nickname, “the Prozac Generation.”  However, developing safe, targeted, and effective drugs for mental illnesses has increasingly become a struggle for the pharmaceutical industry.</p>
-
-<p>Due to the complexity of brain networks, these pharmaceutical compounds may work to alleviate some symptoms, but they may exacerbate others. The diagnosis of many conditions is a highly subjective process based on patient self-reporting and thus identifying the appropriate course of treatment is frequently trial and error.</p>
-
-<p>We believe we are moving into a post-pharmaceutical age in the treatment of neurological and psychiatric illness. With the flurry of wearable sensors, brain-computer interfaces, and non-invasive brain stimulation research we see a new type of treatment related to cognition, behavior, and emotion. Thus, we see potential for patients with insomnia, paralysis, ADHD and MS.</p>
-
-<p><img src="/assets/SSVEP.jpg" alt="SSVEP" />
-- <a href="http://spie.org/x113409.xml//" title="Title">Architecture of a typical brain–display interactive system. SSVEP: Steady-state visual evoked potential.</a></p>
-
-<h2 id="tinkering">Tinkering</h2>
-
-<p>In order to achieve this we used an <a href="http://www.openbci.com//" title="Title">openBCI</a>, scraped the data, analyzed it, ran a Fast Fourier Transform (FFT) on it and used this frequency to create a visual and auditory stimulus on a web app. </p>
-
-<p>In terms of hardware, openBCI was easy to set up, had a great GUI, a helpful developer community (Thanks <a href="https://twitter.com/russomanno15 //" title="Title">Conor</a>!), was flexible in terms of use cases and I would totally recommend it to makers and tinkerers in the human-computer interaction domain! </p>
-
-<p>We used flickering red lights to create an imperceptible flickering visual stimulus that can elicit a strong SSVEP. </p>
-
-<h2 id="prototype">Prototype</h2>
-
-<p>Although you wouldn’t be able to hear the audio and feel it in real time, here’s what the visual looked like at one point.</p>
-
-<p><img src="http://i.imgur.com/UuubiLp.gif" alt="GIF" /></p>
-
-<h2 id="team">Team</h2>
-
-<p><img src="/assets/teambci.jpg" alt="Team" /></p>
-
+<p>Post coming soon!</p>
 
   </article>
 
