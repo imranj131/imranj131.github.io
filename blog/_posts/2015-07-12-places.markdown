@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Places"
+date:   2015-07-13
+link:   
+excerpt: places i've been to 
+color:  "#3471aa"
+bgimage: "../../assets/stilt-fishing.jpg"
+category: blog
+
+---
+
+
+Post coming soon!
