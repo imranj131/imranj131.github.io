@@ -1,14 +1,33 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
-  {% include head.html %}
-
-  <body>
-
+  
     {% include header.html %}
 
+<head>
+
+  <title>Imran Jameel</title>
+
+
+<style>
+
+  #words {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    font-size: 30px;
+  }
+
+</style>
+
+</head>
+<body>
+
+{% include head.html %}
+
+
     <div class="page-content">
-      <div class="wrapper">
+      <div class="wrapper" >
         {{ content }}
       </div>
     </div>
@@ -16,7 +35,6 @@
     {% include footer.html %}
 
     {% include google-analytics.html %}
-
-  </body>
-
+  
+</body>
 </html>

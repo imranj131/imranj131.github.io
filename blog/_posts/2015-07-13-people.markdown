@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "People"
+date:   2015-07-12
+link:   
+excerpt: people i look up to 
+color:  "#3471aa"
+bgimage: "https://www.birdsongconnections.com/wp-content/uploads/2015/04/11049491_940471615971838_4982008742149426439_n.jpg"
+category: blog
+
+---
+
+
+Post coming soon!

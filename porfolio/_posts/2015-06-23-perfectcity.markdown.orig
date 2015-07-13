@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Open Data"
+<<<<<<< HEAD:porfolio/_posts/2015-06-23-perfectcity.markdown
+date:   2015-03-10
+link:   aiyotech.github.io/perfectcity.aiyo/about.html
+=======
+date:   2015-03-13
+link:	aiyotech.github.io/perfectcity.aiyo/about.html
+>>>>>>> 27a71c4ce64fa7ff352c4cb620de4c02cb4e17f8:_posts/2015-06-23-perfectcity.markdown
+excerpt: using open data to recommend the best city for you 
+color:  "#3471aa"
+bgimage: "../../assets/perfcity.jpg"
+category: portfolio
+
+---
+
+Take the Quiz to find out the best city for you [here](http://aiyotech.github.io/perfectcity.aiyo/index.html)!
+
+Post coming soon!

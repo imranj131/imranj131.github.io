@@ -6,9 +6,62 @@
 </description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Jul 2015 05:20:19 -0400</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2015 05:20:19 -0400</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2015 05:35:21 -0400</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2015 05:35:21 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Places</title>
+        <description>&lt;p&gt;Post coming soon!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/places</link>
+        <guid isPermaLink="true">localhost:4000/places</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>People</title>
+        <description>&lt;p&gt;Post coming soon!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Jul 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/people</link>
+        <guid isPermaLink="true">localhost:4000/people</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Readings</title>
+        <description>&lt;p&gt;Post coming soon!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Jul 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/resources</link>
+        <guid isPermaLink="true">localhost:4000/resources</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Perfectcity.markdown</title>
+        <description>Take the Quiz to find out the best city for you [here](http://aiyotech.github.io/perfectcity.aiyo/index.html)!
+
+Post coming soon!</description>
+        <pubDate>Tue, 23 Jun 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/perfectcity.markdown</link>
+        <guid isPermaLink="true">localhost:4000/perfectcity.markdown</guid>
+        
+        
+        <category>porfolio</category>
+        
+      </item>
     
       <item>
         <title>Wearable Tech</title>
@@ -66,12 +119,53 @@ http://www.designboom.com/wp-content/uploads/2013/02/myo01.jpg
 &lt;div class=&quot;embed-container&quot;&gt;
     &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SbRWBkleReE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
 </description>
         <pubDate>Sun, 15 Mar 2015 00:00:00 -0400</pubDate>
         <link>localhost:4000/wearabletech</link>
         <guid isPermaLink="true">localhost:4000/wearabletech</guid>
         
+        
+        <category>porfolio</category>
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Internet of Things</title>
+        <description>&lt;h2 id=&quot;myohome-project&quot;&gt;MyoHome Project&lt;/h2&gt;
+
+&lt;p&gt;In October 2014, I vistied Yale University to attend their hackathon &lt;a href=&quot;http://yhack.org/&quot; title=&quot;Title&quot;&gt;YHack&lt;/a&gt;. This time, Jordan Horwich and I built a gesture-controlled smart-home system ‘MyoHome’. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/intelG.jpg&quot; alt=&quot;Intel Board&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our prototype allows users to control their light as well as their music by simply waving their hand up, down, to the side, etc. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/demo.jpg&quot; alt=&quot;Demo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The one thing I learnt that weekend was that the best way to predict the future is indeed to create it!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/presentations.jpg&quot; alt=&quot;Final Ceremony&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our demo at the presentation ceremony was incredible and we were placed &lt;a href=&quot;http://challengepost.com/software/myohome-2rd97/&quot; title=&quot;Title&quot;&gt;1st place from Intel for the most innovative project!&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/myo-home-collage.jpg&quot; alt=&quot;YHack, Yale&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;smart-home-protoype&quot;&gt;Smart-Home Protoype&lt;/h2&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/couLh0OFTwQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 14 Mar 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/iot</link>
+        <guid isPermaLink="true">localhost:4000/iot</guid>
+        
+        
+        <category>porfolio</category>
+        
+        <category>portfolio</category>
         
       </item>
     
@@ -128,52 +222,9 @@ http://www.designboom.com/wp-content/uploads/2013/02/myo01.jpg
         <guid isPermaLink="true">localhost:4000/sensock</guid>
         
         
-      </item>
-    
-      <item>
-        <title>Open Data</title>
-        <description>&lt;p&gt;Take the Quiz to find out the best city for you &lt;a href=&quot;http://aiyotech.github.io/perfectcity.aiyo/index.html&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Post coming soon!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 13 Mar 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/perfectcity</link>
-        <guid isPermaLink="true">localhost:4000/perfectcity</guid>
+        <category>porfolio</category>
         
-        
-      </item>
-    
-      <item>
-        <title>Internet of Things</title>
-        <description>&lt;h2 id=&quot;myohome-project&quot;&gt;MyoHome Project&lt;/h2&gt;
-
-&lt;p&gt;In October 2014, I vistied Yale University to attend their hackathon &lt;a href=&quot;http://yhack.org/&quot; title=&quot;Title&quot;&gt;YHack&lt;/a&gt;. This time, Jordan Horwich and I built a gesture-controlled smart-home system ‘MyoHome’. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/intelG.jpg&quot; alt=&quot;Intel Board&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Our prototype allows users to control their light as well as their music by simply waving their hand up, down, to the side, etc. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/demo.jpg&quot; alt=&quot;Demo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The one thing I learnt that weekend was that the best way to predict the future is indeed to create it!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/presentations.jpg&quot; alt=&quot;Final Ceremony&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Our demo at the presentation ceremony was incredible and we were placed &lt;a href=&quot;http://challengepost.com/software/myohome-2rd97/&quot; title=&quot;Title&quot;&gt;1st place from Intel for the most innovative project!&lt;/a&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/myo-home-collage.jpg&quot; alt=&quot;YHack, Yale&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;smart-home-protoype&quot;&gt;Smart-Home Protoype&lt;/h2&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/couLh0OFTwQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Fri, 13 Mar 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/iot</link>
-        <guid isPermaLink="true">localhost:4000/iot</guid>
-        
+        <category>portfolio</category>
         
       </item>
     
@@ -223,25 +274,32 @@ http://www.designboom.com/wp-content/uploads/2013/02/myo01.jpg
 &lt;h2 id=&quot;team&quot;&gt;Team&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/teambci.jpg&quot; alt=&quot;Team&quot; /&gt;&lt;/p&gt;
-
 </description>
         <pubDate>Fri, 13 Mar 2015 00:00:00 -0400</pubDate>
         <link>localhost:4000/brainsoother</link>
         <guid isPermaLink="true">localhost:4000/brainsoother</guid>
         
         
+        <category>porfolio</category>
+        
+        <category>portfolio</category>
+        
       </item>
     
       <item>
-        <title>Prosthetics</title>
-        <description>&lt;!--
-http://cdn.slashgear.com/wp-content/uploads/2014/03/solidooldle-820x420.jpg
---&gt;
+        <title>Open Data</title>
+        <description>&lt;p&gt;Take the Quiz to find out the best city for you &lt;a href=&quot;http://aiyotech.github.io/perfectcity.aiyo/index.html&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Post coming soon!&lt;/p&gt;
 </description>
-        <pubDate>Thu, 12 Mar 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/prosthetics</link>
-        <guid isPermaLink="true">localhost:4000/prosthetics</guid>
+        <pubDate>Tue, 10 Mar 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/perfectcity</link>
+        <guid isPermaLink="true">localhost:4000/perfectcity</guid>
         
+        
+        <category>porfolio</category>
+        
+        <category>portfolio</category>
         
       </item>
     
@@ -254,31 +312,9 @@ http://cdn.slashgear.com/wp-content/uploads/2014/03/solidooldle-820x420.jpg
         <guid isPermaLink="true">localhost:4000/feetbeats</guid>
         
         
-      </item>
-    
-      <item>
-        <title>3M RPM</title>
-        <description>&lt;!--
-http://web.stanford.edu/group/neurostudents/cgi-bin/wordpress/wp-content/uploads/2013/06/Ennis-Flint_Marker4.jpg
---&gt;
-</description>
-        <pubDate>Mon, 15 Sep 2014 00:00:00 -0400</pubDate>
-        <link>localhost:4000/3M</link>
-        <guid isPermaLink="true">localhost:4000/3M</guid>
+        <category>porfolio</category>
         
-        
-      </item>
-    
-      <item>
-        <title>Erudite</title>
-        <description>&lt;!--
-http://sites.udel.edu/econseminar/files/2011/12/cropped-UDigital_723_DonaldKohn-14-scr1.jpg
---&gt;
-</description>
-        <pubDate>Sat, 17 May 2014 00:00:00 -0400</pubDate>
-        <link>localhost:4000/erudite</link>
-        <guid isPermaLink="true">localhost:4000/erudite</guid>
-        
+        <category>portfolio</category>
         
       </item>
     
