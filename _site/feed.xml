@@ -6,8 +6,8 @@
 </description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Jul 2015 05:22:50 -0400</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2015 05:22:50 -0400</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2015 05:27:28 -0400</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2015 05:27:28 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -46,6 +46,20 @@
         
         
         <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Perfectcity.markdown</title>
+        <description>Take the Quiz to find out the best city for you [here](http://aiyotech.github.io/perfectcity.aiyo/index.html)!
+
+Post coming soon!</description>
+        <pubDate>Tue, 23 Jun 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/perfectcity.markdown</link>
+        <guid isPermaLink="true">localhost:4000/perfectcity.markdown</guid>
+        
+        
+        <category>porfolio</category>
         
       </item>
     
@@ -296,23 +310,6 @@ http://www.designboom.com/wp-content/uploads/2013/02/myo01.jpg
         <pubDate>Mon, 09 Mar 2015 00:00:00 -0400</pubDate>
         <link>localhost:4000/feetbeats</link>
         <guid isPermaLink="true">localhost:4000/feetbeats</guid>
-        
-        
-        <category>porfolio</category>
-        
-        <category>portfolio</category>
-        
-      </item>
-    
-      <item>
-        <title>Prosthetics</title>
-        <description>&lt;!--
-http://cdn.slashgear.com/wp-content/uploads/2014/03/solidooldle-820x420.jpg
---&gt;
-</description>
-        <pubDate>Sat, 07 Mar 2015 00:00:00 -0500</pubDate>
-        <link>localhost:4000/prosthetics</link>
-        <guid isPermaLink="true">localhost:4000/prosthetics</guid>
         
         
         <category>porfolio</category>
