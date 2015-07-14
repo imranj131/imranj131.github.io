@@ -6,8 +6,8 @@
 </description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 14 Jul 2015 03:58:34 -0400</pubDate>
-    <lastBuildDate>Tue, 14 Jul 2015 03:58:34 -0400</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2015 19:31:17 -0400</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2015 19:31:17 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -38,7 +38,76 @@
     
       <item>
         <title>Elon Musk</title>
-        <description>
+        <description>&lt;p&gt;When Elon Musk was in college, he figured three things would affect the future of humanity in a postive way: the internet, sustainable energy, and multi-planetary life.&lt;/p&gt;
+
+&lt;p&gt;Jobs changed how individuals live and interact in their daily lives. Musk is on a path to change how humanity will function as a whole. Both are very special individuals. While Jobs’ impact was felt immediately within a span of a few years, I don’t believe Musk’s true legacy will be defined by anyone in our generations.&lt;/p&gt;
+
+&lt;p&gt;This post will feature some of his content which have inspired me and taught me lessons such as :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Endlessly seek criticism 
+    &lt;ul&gt;
+      &lt;li&gt;“You should take the approach that you’re wrong. Your goal is to be less wrong.”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Challenge reality (by understanding the fundamentals) 
+    &lt;ul&gt;
+      &lt;li&gt;“Boil things down to the most fundamental truths. Then reason up from there.”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Focus on signal over noise 
+    &lt;ul&gt;
+      &lt;li&gt;“Will this activity result in a better product? If not, stop those efforts.”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Make failure an option (by defining a contingency plan)
+    &lt;ul&gt;
+      &lt;li&gt;“Failure is an option here. If things are not failing, you are not innovating enough.”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Remove worries (by living the worst-case scenario)&lt;br /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;“I figured if I could live off a dollar a day then, at least from a food stand point, it’s pretty easy to earn $30 a month.”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Solve problems beyond yourself
+    &lt;ul&gt;
+      &lt;li&gt;“If something is important enough, even if the odds are against you, you should still do it.”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+&lt;iframe width=&quot;525&quot; height=&quot;295&quot; src=&quot;https://www.youtube.com/embed/GtaxU6DZvLs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Focus on something that has high value to someone else, be really rigorous in making that assessment, because natural human tendency is wishful thinking, so the challenge to entrepreneurs is telling what’s the difference between really believing in your ideals and sticking to them as opposed to pursuing some unrealistic dream that doesn’t actually have merit. Be very rigorous in your self analysis, certainly be extremely tenacious, and just work like hell. Put in 80-100 hours every week. All these things improves the odds of success.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+&lt;iframe width=&quot;525&quot; height=&quot;295&quot; src=&quot;https://www.youtube.com/embed/5nMQ0-1jqFs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Accurate self analysis. It’s difficult to do so, since you’re too close to yourself by definition. People do not think critically enough. People assume too many things to be true without sufficient basis in that belief, so it’s very important that people closely analyze what is supposed to be true, and build it up, analyze things by the first principles, not by analogy or convention, which is actually what most people do, that makes it difficult to gain insight as to how things can be bettered. In any argument or train of thinking, you want to make sure that the underlying premises are valid and applicable, and how the conclusion reached is necessarily driven by the underlying premises and the interconnection between those premises. It’s the foundation of rational thought. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People tend to over-weigh risks on a personal level. It’s one thing if you’ve got a mortgage to pay and kids to support, so that if you were to deviate from your job, well, how are you going to feed your family and pay the rent? That’s understandable, but let’s say you’re young and you’re just coming out of college, what are your risks? You’re not going to starve, certainly not in any kind of modern economy. It’s so easy to earn enough money just to live somewhere and eat food. Very easy to do. So I don’t know what they’re afraid of. Mostly afraid of failure, I think, but people should be less risk averse, when there’s not much at risk.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+
+&lt;/div&gt;
 </description>
         <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
         <link>localhost:4000/musk</link>

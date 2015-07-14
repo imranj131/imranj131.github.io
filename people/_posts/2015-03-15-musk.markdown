@@ -9,11 +9,9 @@ excerpt:
 
 ---
 
-When Elon Musk was in college, he figured three things would affect the future of humanity in a postive way: the internet, sustainable energy, and multi-planetary life, and he wanted to be a part of each. 
+When Elon Musk was in college, he figured three things would affect the future of humanity in a postive way: the internet, sustainable energy, and multi-planetary life.
 
-Jobs changed how individuals live and interact in their daily lives. Musk is on a path to change how humanity will function as a whole. 
-
-Both are very special individuals. While Jobs' impact was felt immediately within a span of a few years, I don't believe Musk's true legacy will be defined by anyone in our generations.
+Jobs changed how individuals live and interact in their daily lives. Musk is on a path to change how humanity will function as a whole. Both are very special individuals. While Jobs' impact was felt immediately within a span of a few years, I don't believe Musk's true legacy will be defined by anyone in our generations.
 
 This post will feature some of his content which have inspired me and taught me lessons such as :
 
@@ -32,7 +30,7 @@ This post will feature some of his content which have inspired me and taught me 
 5. Remove worries (by living the worst-case scenario)  
     - "I figured if I could live off a dollar a day then, at least from a food stand point, it's pretty easy to earn $30 a month."
 
-6. Solve Problems Beyond Yourself
+6. Solve problems beyond yourself
     - "If something is important enough, even if the odds are against you, you should still do it."
 
 <div class="embed-container">
