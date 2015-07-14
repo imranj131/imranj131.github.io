@@ -1,0 +1,11 @@
+---
+layout: post
+category: people
+title: Sheryl Sandberg
+date:   2015-07-09
+color:  "#3471aa"
+bgimage: "../../assets/sheryll.jpg"
+excerpt:  
+
+---
+

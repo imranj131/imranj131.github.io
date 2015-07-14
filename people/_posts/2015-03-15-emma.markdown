@@ -1,0 +1,11 @@
+---
+layout: post
+category: people
+title: Emma Watson
+date:   2015-07-12
+color:  "#3471aa"
+bgimage: "http://i.imgur.com/Dkh69jw.jpg"
+excerpt:  
+
+---
+
