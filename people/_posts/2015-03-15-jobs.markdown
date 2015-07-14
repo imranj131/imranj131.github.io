@@ -1,0 +1,14 @@
+---
+layout: post
+category: people
+title: Steve Jobs 
+date:   2015-07-11
+color:  "#3471aa"
+bgimage: "http://i.imgur.com/InVXAOC.gif"
+excerpt:  
+
+---
+
+
+
+
