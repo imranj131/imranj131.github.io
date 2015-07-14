@@ -3,15 +3,11 @@ layout: post
 category: blog
 title:  "People"
 date:   2015-07-13
-link:   
+link: /people/index.html
 excerpt: people i look up to 
 color:  "#3471aa"
 bgimage: "https://www.birdsongconnections.com/wp-content/uploads/2015/04/11049491_940471615971838_4982008742149426439_n.jpg"
 
 ---
 
-
-###[Chamath Palihapitiya]({% post_url 2015-03-15-chamath %})
-
-###[Elon Musk]({% post_url 2015-03-15-musk %})
 

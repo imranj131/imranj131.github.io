@@ -2,7 +2,7 @@
 layout: post
 title:  "Places"
 date:   2015-07-12
-link:   
+link:   /places/index.html
 excerpt: places i've been to 
 color:  "#3471aa"
 bgimage: "../../assets/places.jpg"
@@ -10,9 +10,4 @@ category: blog
 
 ---
 
-### [Sri Lanka]({% post_url 2015-03-15-chamath %})
-
-### [Montreal]({% post_url 2015-03-15-chamath %})
-
-### [San Francisco]({% post_url 2015-03-15-chamath %})
 
