@@ -9,10 +9,3 @@ bgimage: "../../assets/places.jpg"
 category: blog
 
 ---
-
-### [Sri Lanka]({% post_url 2015-03-15-chamath %})
-
-### [Montreal]({% post_url 2015-03-15-chamath %})
-
-### [San Francisco]({% post_url 2015-03-15-chamath %})
-
