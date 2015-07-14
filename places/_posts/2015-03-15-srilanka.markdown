@@ -1,0 +1,15 @@
+---
+layout: post
+category: places
+title: Colombo 
+date:   2015-07-13
+color:  "#3471aa"
+bgimage: "../../assets/cmb.jpg"
+excerpt:  
+
+
+---
+
+
+
+

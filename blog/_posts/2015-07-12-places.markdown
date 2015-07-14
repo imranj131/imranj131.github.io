@@ -1,14 +1,18 @@
 ---
 layout: post
 title:  "Places"
-date:   2015-07-13
+date:   2015-07-12
 link:   
 excerpt: places i've been to 
 color:  "#3471aa"
-bgimage: "../../assets/stilt-fishing.jpg"
+bgimage: "../../assets/places.jpg"
 category: blog
 
 ---
 
+### [Sri Lanka]({% post_url 2015-03-15-chamath %})
 
-Post coming soon!
+### [Montreal]({% post_url 2015-03-15-chamath %})
+
+### [San Francisco]({% post_url 2015-03-15-chamath %})
+

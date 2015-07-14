@@ -6,17 +6,33 @@
 </description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Jul 2015 05:43:25 -0400</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2015 05:43:25 -0400</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2015 20:34:31 -0400</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2015 20:34:31 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Places</title>
-        <description>&lt;p&gt;Post coming soon!&lt;/p&gt;
+        <title>Colombo</title>
+        <description>
 </description>
         <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/places</link>
-        <guid isPermaLink="true">localhost:4000/places</guid>
+        <link>localhost:4000/srilanka</link>
+        <guid isPermaLink="true">localhost:4000/srilanka</guid>
+        
+        
+        <category>places</category>
+        
+      </item>
+    
+      <item>
+        <title>People</title>
+        <description>&lt;h3 id=&quot;chamath-palihapitiyachamath&quot;&gt;&lt;a href=&quot;/chamath&quot;&gt;Chamath Palihapitiya&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;elon-muskmusk&quot;&gt;&lt;a href=&quot;/musk&quot;&gt;Elon Musk&lt;/a&gt;&lt;/h3&gt;
+
+</description>
+        <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/people</link>
+        <guid isPermaLink="true">localhost:4000/people</guid>
         
         
         <category>blog</category>
@@ -24,12 +40,73 @@
       </item>
     
       <item>
-        <title>People</title>
-        <description>&lt;p&gt;Post coming soon!&lt;/p&gt;
+        <title>Elon Musk</title>
+        <description>
+</description>
+        <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/musk</link>
+        <guid isPermaLink="true">localhost:4000/musk</guid>
+        
+        
+        <category>people</category>
+        
+      </item>
+    
+      <item>
+        <title>Chamath Palihapitiya</title>
+        <description>&lt;div class=&quot;embed-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jbabdKhAw2s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZlYln36BRpo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ptO6mccWtIo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NH7gjbPuow8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/59uTUpO8Dzw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NV5ubkGQUes&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pDVDWNguPs4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0tXRomZZi9c?list=PLTHY2lYEOQH2t1TTxv0kB78cJ91aCLM_j&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/chamath</link>
+        <guid isPermaLink="true">localhost:4000/chamath</guid>
+        
+        
+        <category>people</category>
+        
+      </item>
+    
+      <item>
+        <title>Places</title>
+        <description>&lt;h3 id=&quot;sri-lankachamath&quot;&gt;&lt;a href=&quot;/chamath&quot;&gt;Sri Lanka&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;montrealchamath&quot;&gt;&lt;a href=&quot;/chamath&quot;&gt;Montreal&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;san-franciscochamath&quot;&gt;&lt;a href=&quot;/chamath&quot;&gt;San Francisco&lt;/a&gt;&lt;/h3&gt;
+
 </description>
         <pubDate>Sun, 12 Jul 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/people</link>
-        <guid isPermaLink="true">localhost:4000/people</guid>
+        <link>localhost:4000/places</link>
+        <guid isPermaLink="true">localhost:4000/places</guid>
         
         
         <category>blog</category>
@@ -50,6 +127,91 @@
       </item>
     
       <item>
+        <title>Montreal</title>
+        <description>
+</description>
+        <pubDate>Sat, 11 Jul 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/montreal</link>
+        <guid isPermaLink="true">localhost:4000/montreal</guid>
+        
+        
+        <category>places</category>
+        
+      </item>
+    
+      <item>
+        <title>Steve Jobs</title>
+        <description>
+</description>
+        <pubDate>Sat, 11 Jul 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/jobs</link>
+        <guid isPermaLink="true">localhost:4000/jobs</guid>
+        
+        
+        <category>people</category>
+        
+      </item>
+    
+      <item>
+        <title>Startups</title>
+        <description>&lt;h2 id=&quot;hardware-startups&quot;&gt;Hardware Startups&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mttr.net/&quot;&gt;Matternet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www2.withings.com/us/en&quot;&gt;Withings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://vintageelectricbikes.com/&quot;&gt;Vintage Electric&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.laforgeoptical.com/&quot;&gt;LAFORGE Optical&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.getameta.com/&quot;&gt;META&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://themusio.com/&quot;&gt;Musio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://juneoven.com/&quot;&gt;June&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.smarthalo.bike/&quot;&gt;SmartHalo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://context.reelyactive.com/&quot;&gt;reelyActive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nest.com/&quot;&gt;Nest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://misfit.com/&quot;&gt;Misfit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.august.com/&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.getneptune.com/&quot;&gt;Neptune&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hexoskin.com/&quot;&gt;Hexoskin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.omsignal.com/&quot;&gt;OMsignal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://getnarrative.com/&quot;&gt;Narrative&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nod.com/&quot;&gt;Nod&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thalmic.com/&quot;&gt;Thalmic Labs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://senic.com/&quot;&gt;Nuimo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.particle.io/&quot;&gt;Particle&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fitbit.com&quot;&gt;Fitbit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jawbone.com/&quot;&gt;Jawbone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://flynixie.com/&quot;&gt;Nixie&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.openbionics.com/&quot;&gt;OpenBionics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://heddoko.com/&quot;&gt;Heddoko&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nymi.com/&quot;&gt;Nymi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;software-startups&quot;&gt;Software Startups&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.spotify.com/&quot;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://meerkatapp.co/&quot;&gt;Meerkat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/&quot;&gt;Medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.snapchat.com/&quot;&gt;Snapchat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.busbud.com/&quot;&gt;Busbud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dragoninnovation.com/&quot;&gt;Dragon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://breather.com/v2&quot;&gt;Breather&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.freshmint.com/en/content&quot;&gt;Fresh Mint&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.frankandoak.com/&quot;&gt;Frank and Oak&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 10 Jul 2015 00:00:00 -0400</pubDate>
+        <link>localhost:4000/startups</link>
+        <guid isPermaLink="true">localhost:4000/startups</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
         <title>Perfectcity.markdown</title>
         <description>Take the Quiz to find out the best city for you [here](http://aiyotech.github.io/perfectcity.aiyo/index.html)!
 
@@ -60,261 +222,6 @@ Post coming soon!</description>
         
         
         <category>porfolio</category>
-        
-      </item>
-    
-      <item>
-        <title>Wearable Tech</title>
-        <description>&lt;!--
-http://www.designboom.com/wp-content/uploads/2013/02/myo01.jpg
---&gt;
-
-&lt;h2 id=&quot;myomusic-project&quot;&gt;MyoMusic Project&lt;/h2&gt;
-
-&lt;p&gt;In the Fall 2014 semester, I attended my first hackathon called &lt;a href=&quot;http://wearhacks.com/&quot; title=&quot;Title&quot;&gt;WearHacks&lt;/a&gt;. As a wearable tech enthusiast, I was beyond exited to be surrounded by people with similar interests and have access to top hardware. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/oldport.jpg&quot; alt=&quot;OldPort, Mtl&quot; /&gt;
-&lt;img src=&quot;/assets/wearhacks.jpg&quot; alt=&quot;WearHacks, Mtl&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.thalmic.com/&quot; title=&quot;Title&quot;&gt;Thalmic Lab’s Myo&lt;/a&gt; is a gesture control armband which uses an accelerometer, gyrometer and magnetometer, as well as a sensor to collect electromyographic data from muscles. This data is then converted to digital signals which can be programmed accordingly. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/myo-first-time.jpg&quot; alt=&quot;First time&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In addition to tech, I’m also a musician and I’ve always thought of how I could integrate both of these passions together. &lt;/p&gt;
-
-&lt;p&gt;We used this armband to create a virtual musical instrument which allows a user to play various musical instruments such as a drum, a guitar or a violin. &lt;/p&gt;
-
-&lt;p&gt;It was a great experience and we ended up winning first place from Thalmic Labs! &lt;/p&gt;
-
-&lt;p&gt;We also had the privilege of presenting MyoMusic at various events across Canada.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/myo-music-team.jpg&quot; alt=&quot;MyoMusic Team&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We: Jeremy Schembri, Lucie Belanger, Brian Zhu, Victor Dyotte, Alex Gagnon (L to R)&lt;/p&gt;
-
-&lt;h2 id=&quot;closing-ceremony-demo-wearhacks&quot;&gt;Closing ceremony demo, WearHacks.&lt;/h2&gt;
-
-&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/tgOT_ynab4/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;#MyoMusic bringing in the virtual music! #iWantit #iNeedIt #wearhacks&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A video posted by Imane (@imanehaf) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2014-09-28T21:00:31+00:00&quot;&gt;Sep 28, 2014 at 2:00pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
-
-&lt;h2 id=&quot;presentations&quot;&gt;Presentations&lt;/h2&gt;
-
-&lt;h2 id=&quot;google-montrealhttpgooglecom-title&quot;&gt;&lt;a href=&quot;http://google.com/&quot; title=&quot;Title&quot;&gt;Google Montreal&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/googlepres.jpeg&quot; alt=&quot;MyoMusic Google&quot; /&gt;
-&lt;img src=&quot;/assets/gmtl.jpg&quot; alt=&quot;MyoMusic Google&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;techd-montrealhttptech-dorg-title&quot;&gt;&lt;a href=&quot;http://tech-d.org/&quot; title=&quot;Title&quot;&gt;Tech@D, Montreal&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/techd.jpg&quot; alt=&quot;Tech@D, Mtl&quot; /&gt;
-&lt;img src=&quot;/assets/techd2.jpg&quot; alt=&quot;Tech@D, Mtl&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;4&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/zl6i_PwWYg/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_top&quot;&gt;You &amp;#34;rock&amp;#34; guys! what a demo #MyoMusic!! the #WearHacks2014 team killiing it at #TechD !! #montreal #wearables #Hackathon @thalmic #Myo&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A video posted by WearHacks (@wearhacks) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2015-02-27T05:11:37+00:00&quot;&gt;Feb 26, 2015 at 9:11pm PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
-
-&lt;h2 id=&quot;wearewearables-torontohttpswwwwearewearblescom-title&quot;&gt;&lt;a href=&quot;https://www.wearewearbles.com/&quot; title=&quot;Title&quot;&gt;WeAreWearables, Toronto&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/wwto.jpg&quot; alt=&quot;WWTO&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SbRWBkleReE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 15 Mar 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/wearabletech</link>
-        <guid isPermaLink="true">localhost:4000/wearabletech</guid>
-        
-        
-        <category>porfolio</category>
-        
-        <category>portfolio</category>
-        
-      </item>
-    
-      <item>
-        <title>Internet of Things</title>
-        <description>&lt;h2 id=&quot;myohome-project&quot;&gt;MyoHome Project&lt;/h2&gt;
-
-&lt;p&gt;In October 2014, I vistied Yale University to attend their hackathon &lt;a href=&quot;http://yhack.org/&quot; title=&quot;Title&quot;&gt;YHack&lt;/a&gt;. This time, Jordan Horwich and I built a gesture-controlled smart-home system ‘MyoHome’. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/intelG.jpg&quot; alt=&quot;Intel Board&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Our prototype allows users to control their light as well as their music by simply waving their hand up, down, to the side, etc. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/demo.jpg&quot; alt=&quot;Demo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The one thing I learnt that weekend was that the best way to predict the future is indeed to create it!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/presentations.jpg&quot; alt=&quot;Final Ceremony&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Our demo at the presentation ceremony was incredible and we were placed &lt;a href=&quot;http://challengepost.com/software/myohome-2rd97/&quot; title=&quot;Title&quot;&gt;1st place from Intel for the most innovative project!&lt;/a&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/myo-home-collage.jpg&quot; alt=&quot;YHack, Yale&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;smart-home-protoype&quot;&gt;Smart-Home Protoype&lt;/h2&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/couLh0OFTwQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sat, 14 Mar 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/iot</link>
-        <guid isPermaLink="true">localhost:4000/iot</guid>
-        
-        
-        <category>porfolio</category>
-        
-        <category>portfolio</category>
-        
-      </item>
-    
-      <item>
-        <title>Biometric Clothing</title>
-        <description>&lt;h2 id=&quot;sensock&quot;&gt;SENSOCK&lt;/h2&gt;
-
-&lt;p&gt;In May 2015, I visited Toronto to attend the WearHacks Toronto hackathon &lt;a href=&quot;https://wearhackstoronto.splashthat.com//&quot; title=&quot;Title&quot;&gt;WearHacks&lt;/a&gt;. My partner, Rashad Ajward and I built a smart sock with an integrated biometric sensor system, ‘Sensock’ to faciliate the evergrowing idea of Remote Patient Monitoring. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/hackathon.jpg&quot; alt=&quot;Hackathon&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/workstation.jpg&quot; alt=&quot;Workstation&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;idea&quot;&gt;Idea&lt;/h2&gt;
-
-&lt;p&gt;Remote health monitoring solutions combine specialized hardware and software to collect various biometric data from an individual. Whether its assisting patients suffering from a chronic illness or recovering from a hospital stay, consumers who want to actively manage their personal fitness, or families wishing to keep track of a loved one with some level of physical impairment. Thus, the selection of remote monitoring solutions continues to grow at a rapid rate.&lt;/p&gt;
-
-&lt;p&gt;Furthermore, with the growing solutions with Wearable Technology and the the Internet of Things, we realised most biometric data would be collected off wearables such as fitness trackers and smartwatches. &lt;/p&gt;
-
-&lt;p&gt;However, as we focus on a different demographic, i.e. patients and elders, we realised the need for wearables that are non obstrusive and non instrusive. Patients don’t like being reminded that they are sick, and therefore the existing wearable technology solutions in the case of medical monitoring do not act in the favor of the patient, but rather is uncomfortable and is a pain to the patient.&lt;/p&gt;
-
-&lt;p&gt;Thus tapping into a simple ubiquitous garment such as a sock, that we all wear socks on a daily basis, we builded a sensor network within existing socks. &lt;/p&gt;
-
-&lt;p&gt;In our solution, &lt;a href=&quot;https://sensock.github.io///&quot; title=&quot;Title&quot;&gt;SENSOCK&lt;/a&gt;, a hospital care giver, a doctor or a loved one can have access to this biometric data at any point in time and doesn’t have to be physically present in the patient’s room to review the readings. This acts as an effective early warning system, identifying problems or issues early enough to prevent the need for dangerous circumstances.&lt;/p&gt;
-
-&lt;h2 id=&quot;tinkering&quot;&gt;Tinkering&lt;/h2&gt;
-
-&lt;p&gt;In order to embed our microprocessor into the sock, we used a Arduino Lillypad, designed for textiles and wearables. (Yes, we learnt how to sew!)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/textilearduino.jpg&quot; alt=&quot;Arduino&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Building &lt;a href=&quot;https://sensock.github.io///&quot; title=&quot;Title&quot;&gt;SENSOCK&lt;/a&gt; required a lot of planning, sol eadboard circuitry, programming and coffee. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/team1.jpg&quot; alt=&quot;TeamWork1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After burning various sensors, and after multiple visits to &lt;a href=&quot;https://www.creatroninc.com///&quot; title=&quot;Title&quot;&gt;Creatron Inc&lt;/a&gt; and &lt;a href=&quot;http://www.homehardware.ca/en/index.htm///&quot; title=&quot;Title&quot;&gt;Hardware Home&lt;/a&gt;, we were finally able to build a sensor network which could read data off a human!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/sensockbuild.jpg&quot; alt=&quot;TeamWork2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In addition to building the hardware, we implemented two APIs. &lt;a href=&quot;https://plot.ly////&quot; title=&quot;Title&quot;&gt;Plotly&lt;/a&gt; for data visualisation of the biometrics in real time, and &lt;a href=&quot;https://www.twilio.com///&quot; title=&quot;Title&quot;&gt;Twillio&lt;/a&gt; for emegency text message paging upon tapping one’s foot on the side of the door.&lt;/p&gt;
-
-&lt;h2 id=&quot;prototype&quot;&gt;Prototype&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/sensockprototype1.jpg&quot; alt=&quot;Final protoype1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/sensockcloseup.jpg&quot; alt=&quot;Final protoype2&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;team&quot;&gt;Team&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/team2.jpg&quot; alt=&quot;DreamTeam&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 13 Mar 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/sensock</link>
-        <guid isPermaLink="true">localhost:4000/sensock</guid>
-        
-        
-        <category>porfolio</category>
-        
-        <category>portfolio</category>
-        
-      </item>
-    
-      <item>
-        <title>B C I</title>
-        <description>&lt;p&gt;In June 2015, I attended &lt;a href=&quot;http://angelhack.com/hackathon/montreal-2015//&quot; title=&quot;Title&quot;&gt;Angel Hacks&lt;/a&gt; in Montreal. My team (Philippe Castonguay, Yusaira Khan, Maksim Sen) and I built a BCI application called ‘Brain Soother’. &lt;/p&gt;
-
-&lt;h2 id=&quot;brain-computer-interface-bci&quot;&gt;Brain Computer Interface (BCI)&lt;/h2&gt;
-
-&lt;p&gt;A brain-computer interface is a direct communication pathway between the brain and an external device with the purpose of assisting, augmenting, or repairing cognitive and/or motor functions.  The computer measures electrical activity in the brain by means of an electroencephalogram (EEG) and interprets the signals for display.&lt;/p&gt;
-
-&lt;p&gt;As brain and other biometric measures are obtained, rapid analysis of the information is converted into graphical displays of the individual’s cognitive, emotional, and stress states. Cloud-based computing allows for near real-time display and analysis of the results. This system allows doctors to quickly measure the brain and then safely modulate certain regions using various techniques.&lt;/p&gt;
-
-&lt;p&gt;One approach is the use of transcranial direct current stimulation (tDCS), a form of neuro-stimulation using constant, low current delivered directly to a specific area of the brain via small electrodes. However, the approach we chose instead uses visual stimulation to generate electrical activity at the same frequency, thus imitating the stimuli.&lt;/p&gt;
-
-&lt;p&gt;In neurology, Steady State Visually Evoked Potentials (SSVEP) are signals that are natural responses to visual stimulation at specific frequencies. When the retina is excited by a visual stimulus ranging from 3.5 Hz to 75 Hz, the brain generates electrical activity at the same (or multiples of) frequency of the visual stimulus.&lt;/p&gt;
-
-&lt;p&gt;We used the science behind SSVEP in order to evoke signals to test our goal of reducing stress and inducing calmness in users. In addition to a visual stimuli, we used auditory stimuli at the same frequency to test our hypothesis. In the future we would like to explore stimulating the human brain using more senses such as haptics in order to work towards a healthier brain.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/bci_devices.jpg&quot; alt=&quot;Hackathon&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
-
-&lt;p&gt;More than &lt;a href=&quot;http://www.newyorker.com/tech/elements/the-psychiatric-drug-crisis //&quot; title=&quot;Title&quot;&gt;20 percent of Americans regularly consume prescribed drugs related to mental health issues&lt;/a&gt;, earning contemporary America the nickname, “the Prozac Generation.”  However, developing safe, targeted, and effective drugs for mental illnesses has increasingly become a struggle for the pharmaceutical industry.&lt;/p&gt;
-
-&lt;p&gt;Due to the complexity of brain networks, these pharmaceutical compounds may work to alleviate some symptoms, but they may exacerbate others. The diagnosis of many conditions is a highly subjective process based on patient self-reporting and thus identifying the appropriate course of treatment is frequently trial and error.&lt;/p&gt;
-
-&lt;p&gt;We believe we are moving into a post-pharmaceutical age in the treatment of neurological and psychiatric illness. With the flurry of wearable sensors, brain-computer interfaces, and non-invasive brain stimulation research we see a new type of treatment related to cognition, behavior, and emotion. Thus, we see potential for patients with insomnia, paralysis, ADHD and MS.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/SSVEP.jpg&quot; alt=&quot;SSVEP&quot; /&gt;
-- &lt;a href=&quot;http://spie.org/x113409.xml//&quot; title=&quot;Title&quot;&gt;Architecture of a typical brain–display interactive system. SSVEP: Steady-state visual evoked potential.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;tinkering&quot;&gt;Tinkering&lt;/h2&gt;
-
-&lt;p&gt;In order to achieve this we used an &lt;a href=&quot;http://www.openbci.com//&quot; title=&quot;Title&quot;&gt;openBCI&lt;/a&gt;, scraped the data, analyzed it, ran a Fast Fourier Transform (FFT) on it and used this frequency to create a visual and auditory stimulus on a web app. &lt;/p&gt;
-
-&lt;p&gt;In terms of hardware, openBCI was easy to set up, had a great GUI, a helpful developer community (Thanks &lt;a href=&quot;https://twitter.com/russomanno15 //&quot; title=&quot;Title&quot;&gt;Conor&lt;/a&gt;!), was flexible in terms of use cases and I would totally recommend it to makers and tinkerers in the human-computer interaction domain! &lt;/p&gt;
-
-&lt;p&gt;We used flickering red lights to create an imperceptible flickering visual stimulus that can elicit a strong SSVEP. &lt;/p&gt;
-
-&lt;h2 id=&quot;prototype&quot;&gt;Prototype&lt;/h2&gt;
-
-&lt;p&gt;Although you wouldn’t be able to hear the audio and feel it in real time, here’s what the visual looked like at one point.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/UuubiLp.gif&quot; alt=&quot;GIF&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;team&quot;&gt;Team&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/teambci.jpg&quot; alt=&quot;Team&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 13 Mar 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/brainsoother</link>
-        <guid isPermaLink="true">localhost:4000/brainsoother</guid>
-        
-        
-        <category>porfolio</category>
-        
-        <category>portfolio</category>
-        
-      </item>
-    
-      <item>
-        <title>Open Data</title>
-        <description>&lt;p&gt;Take the Quiz to find out the best city for you &lt;a href=&quot;http://aiyotech.github.io/perfectcity.aiyo/index.html&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Post coming soon!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 Mar 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/perfectcity</link>
-        <guid isPermaLink="true">localhost:4000/perfectcity</guid>
-        
-        
-        <category>porfolio</category>
-        
-        <category>portfolio</category>
-        
-      </item>
-    
-      <item>
-        <title>FeetBeats</title>
-        <description>
-</description>
-        <pubDate>Mon, 09 Mar 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/feetbeats</link>
-        <guid isPermaLink="true">localhost:4000/feetbeats</guid>
-        
-        
-        <category>porfolio</category>
-        
-        <category>portfolio</category>
         
       </item>
     
