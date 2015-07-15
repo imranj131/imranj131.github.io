@@ -10,10 +10,22 @@ excerpt:
 
 ---
 
-As FORTUNE desribes " At age 38, he’s closer in age to the millennials than to the VC baby boomers, with a generationally appropriate resume, having helped Facebook go from campus sensation to global phenomenon (and having become very wealthy thanks to its IPO). Palihapitiya is now best known for a VC fund of his own, Social+Capital Partnership, which he launched in 2011. He’s also an avid poker player, and a partial owner of the NBA’s Golden State Warriors."
+# Who is Chamath Palihapitiya?
+
+Chamath Palihapitiya is a technologist, venture capitalist, and political advocate who has spent the majority of his life in Silicon Valley. Born in Sri Lanka, Palihapitiya was raised in Canada and graduated from the University of Waterloo with an undergraduate degree in electrical engineering.
+
+Upon moving to Silicon Valley, Palihapitiya worked at AOL, WinAmp, Mayfield Fund, and finally was a VP at Facebook before leaving the company to start his own fund, called The Social+Capital Partnership. 
+
+Palihapitiya believes people spend far too much time focusing on small, mundane things instead of big ideas, such as health care and startups in sectors we are less familiar with.
+
+Palihapitiya is most excited about three important technologies: sensor network, automated transportation, and the very specific application of big data.
+
+Palihapitiya thinks the most important thing in business is the management, rewards, and development of human capital.
+
+This post will feature some of his content which I have collected over the last few months and will be updated regualarly.
 
 
-# The Genius of Silcon Valley
+# Context and Lack of Innovation in Silicon Valley
 
 <div class="embed-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZlYln36BRpo" frameborder="0" allowfullscreen></iframe>

@@ -6,8 +6,8 @@
 </description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 14 Jul 2015 19:31:17 -0400</pubDate>
-    <lastBuildDate>Tue, 14 Jul 2015 19:31:17 -0400</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2015 01:07:50 -0400</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2015 01:07:50 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -120,37 +120,97 @@
     
       <item>
         <title>Chamath Palihapitiya</title>
-        <description>&lt;div class=&quot;embed-container&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jbabdKhAw2s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+        <description>&lt;h1 id=&quot;who-is-chamath-palihapitiya&quot;&gt;Who is Chamath Palihapitiya?&lt;/h1&gt;
+
+&lt;p&gt;Chamath Palihapitiya is a technologist, venture capitalist, and political advocate who has spent the majority of his life in Silicon Valley. Born in Sri Lanka, Palihapitiya was raised in Canada and graduated from the University of Waterloo with an undergraduate degree in electrical engineering.&lt;/p&gt;
+
+&lt;p&gt;Upon moving to Silicon Valley, Palihapitiya worked at AOL, WinAmp, Mayfield Fund, and finally was a VP at Facebook before leaving the company to start his own fund, called The Social+Capital Partnership. &lt;/p&gt;
+
+&lt;p&gt;Palihapitiya believes people spend far too much time focusing on small, mundane things instead of big ideas, such as health care and startups in sectors we are less familiar with.&lt;/p&gt;
+
+&lt;p&gt;Palihapitiya is most excited about three important technologies: sensor network, automated transportation, and the very specific application of big data.&lt;/p&gt;
+
+&lt;p&gt;Palihapitiya thinks the most important thing in business is the management, rewards, and development of human capital.&lt;/p&gt;
+
+&lt;p&gt;This post will feature some of his content which I have collected over the last few months and will be updated regualarly.&lt;/p&gt;
+
+&lt;h1 id=&quot;context-and-lack-of-innovation-in-silicon-valley&quot;&gt;Context and Lack of Innovation in Silicon Valley&lt;/h1&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZlYln36BRpo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;h1 id=&quot;diverse-investments-and-the-issue-of-inequality-in-silicon-valley&quot;&gt;Diverse Investments and the Issue of Inequality in Silicon Valley.&lt;/h1&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+&lt;script src=&quot;//cdn.gotraffic.net/projector/latest/bplayer.js&quot;&gt;BPlayer(null, {&quot;id&quot;:&quot;vbZHMYEsT3uPVZEt1dkLMg&quot;,&quot;htmlChildId&quot;:&quot;bbg-video-player-vbZHMYEsT3uPVZEt1dkLMg&quot;,&quot;serverUrl&quot;:&quot;http://www.bloomberg.com/api/embed&quot;,&quot;idType&quot;:&quot;BMMR&quot;,&quot;autoplay&quot;:false,&quot;video_autoplay_on_page&quot;:false,&quot;log_debug&quot;:false,&quot;ui_controls_popout&quot;:false,&quot;use_js_ads&quot;:true,&quot;ad_code_prefix&quot;:&quot;&quot;,&quot;ad_tag_gpt_preroll&quot;:true,&quot;ad_tag_gpt_midroll&quot;:true,&quot;ad_tag_sz_preroll&quot;:&quot;1x7&quot;,&quot;ad_tag_sz_midroll&quot;:&quot;1x7&quot;,&quot;ad_tag_sz_overlay&quot;:&quot;1x7&quot;,&quot;ad_network_id_preroll&quot;:&quot;5262&quot;,&quot;ad_network_id_midroll&quot;:&quot;5262&quot;,&quot;ad_network_id_overlay&quot;:&quot;5262&quot;,&quot;ad_tag_cust_params_preroll&quot;:&quot;&quot;,&quot;ads_vast_timeout&quot;:10000,&quot;ads_playback_timeout&quot;:10000,&quot;wmode&quot;:&quot;opaque&quot;,&quot;use_comscore&quot;:true,&quot;comscore_ns_site&quot;:&quot;bloomberg&quot;,&quot;comscore_page_level_tags&quot;:{&quot;bb_brand&quot;:&quot;bbiz&quot;,&quot;bss_cont_play&quot;:0,&quot;bb_region&quot;:&quot;US&quot;},&quot;use_chartbeat&quot;:true,&quot;chartbeat_uid&quot;:&quot;15087&quot;,&quot;chartbeat_domain&quot;:&quot;bloomberg.com&quot;,&quot;use_share_overlay&quot;:true,&quot;share_metadata&quot;:{&quot;canonical_url&quot;:&quot;http://bloom.bg/1vch6Oi&quot;},&quot;vertical&quot;:&quot;business&quot;,&quot;ad_tag_overlay&quot;:&quot;business/videooverlay&quot;,&quot;zone&quot;:&quot;video&quot;,&quot;source&quot;:&quot;BBIZweb&quot;,&quot;module_conviva_insights&quot;:&quot;enabled&quot;,&quot;conviva_account&quot;:&quot;c3.Bloomberg&quot;,&quot;width&quot;:640,&quot;height&quot;:360,&quot;ad_tag&quot;:&quot;&quot;,&quot;ad_tag_midroll&quot;:&quot;&quot;,&quot;offsite_embed&quot;:true});&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;managing-disruptive-technologies&quot;&gt;Managing Disruptive Technologies&lt;/h1&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+&lt;object id=&quot;flashObj&quot; width=&quot;480&quot; height=&quot;270&quot; classid=&quot;clsid:D27CDB6E-AE6D-11cf-96B8-444553540000&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;amp;isUI=1&quot; /&gt;&lt;param name=&quot;bgcolor&quot; value=&quot;#FFFFFF&quot; /&gt;&lt;param name=&quot;flashVars&quot; value=&quot;videoId=2448291091001&amp;amp;linkBaseURL=http%3A%2F%2Fwww.mckinsey.com%2Fvideos%2Fvideo%3Fvid%3D2448291091001%26plyrid%3D2399849255001%26Height%3D270%26Width%3D480&amp;amp;playerID=1971702156001&amp;amp;playerKey=AQ~~,AAABywrPJyk~,MP34hwWOTrPs3yLiJKkINM_zsiFWIvnW&amp;amp;domain=embed&amp;amp;dynamicStreaming=true&quot; /&gt;&lt;param name=&quot;base&quot; value=&quot;http://admin.brightcove.com&quot; /&gt;&lt;param name=&quot;seamlesstabbing&quot; value=&quot;false&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;swLiveConnect&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;&lt;embed src=&quot;http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;amp;isUI=1&quot; bgcolor=&quot;#FFFFFF&quot; flashvars=&quot;videoId=2448291091001&amp;amp;linkBaseURL=http%3A%2F%2Fwww.mckinsey.com%2Fvideos%2Fvideo%3Fvid%3D2448291091001%26plyrid%3D2399849255001%26Height%3D270%26Width%3D480&amp;amp;playerID=1971702156001&amp;amp;playerKey=AQ~~,AAABywrPJyk~,MP34hwWOTrPs3yLiJKkINM_zsiFWIvnW&amp;amp;domain=embed&amp;amp;dynamicStreaming=true&quot; base=&quot;http://admin.brightcove.com&quot; name=&quot;flashObj&quot; width=&quot;480&quot; height=&quot;270&quot; seamlesstabbing=&quot;false&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; swliveconnect=&quot;true&quot; pluginspage=&quot;http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash&quot; /&gt;&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’ll tell you the three things that I’m most excited by. The first is sensor networks. I’m extremely excited about that. The second is actually this push towards automated transportation. And the third is around a very specific application of big data.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I believe very strongly in the value of technology, its ability to sort of improve productivity. The problem with many of the productivity gains that we see in the economy today is they actually leave more people behind, in many ways, than they pull forward. So one way to think about that is that as more and more things become technological by definition—less mechanical and more technological—you actually need more technical people. And so the way to think about that is, for example, when you think about education. Education today teaches you social science, it teaches you philosophy, it teaches you English, it teaches you math. But we don’t view technological understanding, or the knowledge of a framework, as the equivalent of understanding any other language.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;money-markets-motivation--mercenaries&quot;&gt;Money, Markets, Motivation &amp;amp; Mercenaries&lt;/h1&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+&lt;iframe src=&quot;//fast.wistia.net/embed/iframe/rr16df403z?videoFoam=true&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; class=&quot;wistia_embed&quot; name=&quot;wistia_embed&quot; allowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot; width=&quot;640&quot; height=&quot;360&quot;&gt;&lt;/iframe&gt;&lt;script src=&quot;//fast.wistia.net/assets/external/E-v1.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;launch-festival-2013&quot;&gt;LAUNCH Festival 2013&lt;/h1&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+&lt;iframe width=&quot;766&quot; height=&quot;431&quot; src=&quot;https://www.youtube.com/embed/U_g9G6s5rJw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This is where, honestly, I feel there is so many of us that are at this fork in the road where it’s like, “Am I really going to try something crazy or am I going to do the iterative next thing?” I don’t know health care but should I try to start something there? I don’t know education. Should I start something there? Or should I improve macros in excel? I think a lot of us, unfortunately, take the road that path. This is where I feel like I feel lucky to be here. I feel every day when I encounter people it’s kind of telling them like, “Hey man. Whether you were born here or not or you’re here the point is you’re going to be celebrated for failing so you might as well be celebrated for doing something crazy. Because if you’re successful you’ll be celebrated for doing something successful. But more importantly you’ll be merchant of progress. That is the sickest thing in the world that you can be. Not rich, not cool, not popular but you move the world forward. That’s an illusive thing. You know? Like for me that’s like the only thing now that I give a shit about. I want that. I want to be a merchant of progress. I don’t know how to do that but I’m going to try.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;investment-strategy-and-challenges&quot;&gt;Investment Strategy and Challenges&lt;/h1&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jbabdKhAw2s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;why-the-government-shutdown-is-basically-meaningless&quot;&gt;Why the government shutdown is basically meaningless&lt;/h1&gt;
+
 &lt;div class=&quot;embed-container&quot;&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ptO6mccWtIo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;h1 id=&quot;how-he-made-it-how-you-can-make-it-and-what-actually-matters&quot;&gt;How he made it, how you can make it and what actually matters&lt;/h1&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NH7gjbPuow8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;h1 id=&quot;why-were-at-an-absolute-low-point-in-startup-quality&quot;&gt;Why we’re at an ‘absolute’ low point in startup quality&lt;/h1&gt;
+
 &lt;div class=&quot;embed-container&quot;&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/59uTUpO8Dzw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;h1 id=&quot;thoughts-on-bitcoin&quot;&gt;Thoughts on Bitcoin&lt;/h1&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NV5ubkGQUes&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;embed-container&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pDVDWNguPs4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;h1 id=&quot;growth-hacking&quot;&gt;Growth Hacking&lt;/h1&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0tXRomZZi9c?list=PLTHY2lYEOQH2t1TTxv0kB78cJ91aCLM_j&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;383&quot; height=&quot;280&quot; src=&quot;https://www.youtube.com/embed/raIUQP71SBU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 </description>
         <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
         <link>localhost:4000/chamath</link>
