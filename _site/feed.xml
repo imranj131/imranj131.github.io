@@ -6,8 +6,8 @@
 </description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Jul 2015 02:24:37 -0400</pubDate>
-    <lastBuildDate>Wed, 15 Jul 2015 02:24:37 -0400</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2015 13:31:34 -0400</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2015 13:31:34 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -261,8 +261,51 @@
       </item>
     
       <item>
-        <title>Readings</title>
-        <description>&lt;p&gt;Post coming soon!&lt;/p&gt;
+        <title>Bookmarks</title>
+        <description>&lt;h2 id=&quot;technews&quot;&gt;Tech/News&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.producthunt.com/&quot;&gt;Product Hunt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://startupdaily.co/&quot;&gt;Startup Daily&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.wareable.com/&quot;&gt;Wareable&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.wearabletechworld.com/&quot;&gt;WearableTechWorld&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://startupery.com/&quot;&gt;Curating startup best-practices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.inc.com/&quot;&gt;Small Business Ideas and Resources for Entrepreneurs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.buildbrandblast.com/#sthash.AZtYPT0U.dpbs&quot;&gt;Build-Brand-Blast: Propelling Startup Tech Companies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/&quot;&gt;Entrepreneur&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://growth.supply/free/&quot;&gt;+400 Awesome Free Tools To Build Your Business&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://startups.paddle.com/&quot;&gt;STARTUP CARE PACKAGE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b&quot;&gt;Stock photos that don’t suck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gen.lib.rus.ec/&quot;&gt;Free pdf/epub books on anything&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://svgporn.com/?ref=producthunt&quot;&gt;A collection of svg logos for developers.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.class-central.com/&quot;&gt;Discover free online classes (MOOCs)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.freecodecamp.com/&quot;&gt;Free Code Camp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://overapi.com/&quot;&gt;Collecting All Cheat Sheets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hackster.io/&quot;&gt;Hackster.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tinker.build/&quot;&gt;Learn to build hardware in your browser.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://teachyourselftocode.com/&quot;&gt;Teach yourself to code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.code-love.com/&quot;&gt;Code-Love&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.webdesignrepo.com/&quot;&gt;Web Design Repo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development&quot;&gt;Grab Over 500 Free Programming Books from GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;design&quot;&gt;Design&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.designersofthings.com/&quot;&gt;Designers of Things&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.minimallyminimal.com/&quot;&gt;Minimally Minimal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.shapingelements.com/&quot;&gt;Shaping Elements&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://computeraideddesignguide.com/&quot;&gt;Computer Aided Design Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://100daysoffonts.com/&quot;&gt;100 Days of Fonts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.coroflot.com/&quot;&gt;Coroflot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
         <pubDate>Sat, 11 Jul 2015 00:00:00 -0400</pubDate>
         <link>localhost:4000/resources</link>
