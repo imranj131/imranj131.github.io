@@ -16,7 +16,7 @@ category: blog
 - [Wareable](http://www.wareable.com/)
 - [WearableTechWorld](http://www.wearabletechworld.com/)
 - [Curating startup best-practices](http://startupery.com/)
-- [Small Business Ideas and Resources for Entrepreneurs](http://www.inc.com/)
+- [Small Business Ideas and Resources πor Entrepreneurs](http://www.inc.com/)
 - [Build-Brand-Blast: Propelling Startup Tech Companies](http://www.buildbrandblast.com/#sthash.AZtYPT0U.dpbs)
 - [Entrepreneur](http://www.entrepreneur.com/)
 
