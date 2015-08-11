@@ -4,10 +4,10 @@
     <title>Imran Jameel</title>
     <description>Hey there, I&#39;m Imran. I like making cool things with cool people.
 </description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 27 Jul 2015 23:54:34 -0400</pubDate>
-    <lastBuildDate>Mon, 27 Jul 2015 23:54:34 -0400</lastBuildDate>
+    <link>http://imranjameel.com//</link>
+    <atom:link href="http://imranjameel.com//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 11 Aug 2015 01:37:20 -0400</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2015 01:37:20 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>
 </description>
         <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/srilanka</link>
-        <guid isPermaLink="true">localhost:4000/srilanka</guid>
+        <link>http://imranjameel.com//srilanka</link>
+        <guid isPermaLink="true">http://imranjameel.com//srilanka</guid>
         
         
         <category>places</category>
@@ -28,8 +28,8 @@
         <description>
 </description>
         <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/people</link>
-        <guid isPermaLink="true">localhost:4000/people</guid>
+        <link>http://imranjameel.com//people</link>
+        <guid isPermaLink="true">http://imranjameel.com//people</guid>
         
         
         <category>blog</category>
@@ -123,8 +123,8 @@
 
 </description>
         <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/musk</link>
-        <guid isPermaLink="true">localhost:4000/musk</guid>
+        <link>http://imranjameel.com//musk</link>
+        <guid isPermaLink="true">http://imranjameel.com//musk</guid>
         
         
         <category>people</category>
@@ -226,8 +226,8 @@
 
 </description>
         <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/chamath</link>
-        <guid isPermaLink="true">localhost:4000/chamath</guid>
+        <link>http://imranjameel.com//chamath</link>
+        <guid isPermaLink="true">http://imranjameel.com//chamath</guid>
         
         
         <category>people</category>
@@ -239,8 +239,8 @@
         <description>
 </description>
         <pubDate>Sun, 12 Jul 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/places</link>
-        <guid isPermaLink="true">localhost:4000/places</guid>
+        <link>http://imranjameel.com//places</link>
+        <guid isPermaLink="true">http://imranjameel.com//places</guid>
         
         
         <category>blog</category>
@@ -252,8 +252,8 @@
         <description>
 </description>
         <pubDate>Sun, 12 Jul 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/emma</link>
-        <guid isPermaLink="true">localhost:4000/emma</guid>
+        <link>http://imranjameel.com//emma</link>
+        <guid isPermaLink="true">http://imranjameel.com//emma</guid>
         
         
         <category>people</category>
@@ -308,8 +308,8 @@
 
 </description>
         <pubDate>Sat, 11 Jul 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/resources</link>
-        <guid isPermaLink="true">localhost:4000/resources</guid>
+        <link>http://imranjameel.com//resources</link>
+        <guid isPermaLink="true">http://imranjameel.com//resources</guid>
         
         
         <category>blog</category>
@@ -321,8 +321,8 @@
         <description>
 </description>
         <pubDate>Sat, 11 Jul 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/montreal</link>
-        <guid isPermaLink="true">localhost:4000/montreal</guid>
+        <link>http://imranjameel.com//montreal</link>
+        <guid isPermaLink="true">http://imranjameel.com//montreal</guid>
         
         
         <category>places</category>
@@ -380,8 +380,8 @@
 
 </description>
         <pubDate>Fri, 10 Jul 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/startups</link>
-        <guid isPermaLink="true">localhost:4000/startups</guid>
+        <link>http://imranjameel.com//startups</link>
+        <guid isPermaLink="true">http://imranjameel.com//startups</guid>
         
         
         <category>blog</category>
@@ -393,8 +393,8 @@
         <description>
 </description>
         <pubDate>Thu, 09 Jul 2015 00:00:00 -0400</pubDate>
-        <link>localhost:4000/sheryl</link>
-        <guid isPermaLink="true">localhost:4000/sheryl</guid>
+        <link>http://imranjameel.com//sheryl</link>
+        <guid isPermaLink="true">http://imranjameel.com//sheryl</guid>
         
         
         <category>people</category>
