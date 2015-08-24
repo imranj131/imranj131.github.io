@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gaming"
-date:   2015-03-07
+date:   2015-03-13
 link:   www.reactwearables.xyz
 excerpt: building an immersive wearable gaming experience
 color:  "#5B3E30"
@@ -12,7 +12,7 @@ category: portfolio
 
 ## React 
 
-Last weekend, I was invited to attend [Hack the Planet](http://hacktheplanet.mlh.io/), the Major League Hacking ([MLH](https://mlh.io/))) Finale hackathon for the 2015/2016 season, held in Mountain View, California. My team and I, which consisted of Tabish (Electrical Engineer/ Developer), Ryan (Web Developer), Taaha (UI/UX Designer), and myself (Mechanical Engineer/Developer), built [React](https://reactwearables.xyz//). We were also awarded a prize from [Nest](https://nest.com/) for our innovative integration of the Nest Thermostat into our immersive Street Fighter game.
+Last weekend, I was invited to attend [Hack the Planet](http://hacktheplanet.mlh.io/), the Major League Hacking ([MLH](https://mlh.io/)) Finale hackathon for the 2015/2016 season, held in Mountain View, California. My team and I, which consisted of Tabish (Electrical Engineer/ Developer), Ryan (Web Developer), Taaha (UI/UX Designer), and myself (Mechanical Engineer/Developer), built [React](https://reactwearables.xyz//). We were also awarded a prize from [Nest](https://nest.com/) for our innovative integration of the Nest Thermostat into our immersive Street Fighter game.
 
 ##Idea
 
@@ -39,7 +39,7 @@ In addition to hardware and integration, we worked with four APIs.
 
 ##Tinkering
 
-Building [React](https://reactwearables.xyz//)http://particle.io/) required a lot of planning. Frequently we did not know how we could make it more immersive. However, as we kept hacking away, more and more ideas started coming up and were thus implemented.
+Building [React](https://reactwearables.xyz//) required a lot of planning. Frequently we did not know how we could make it more immersive. However, as we kept hacking away, more and more ideas started coming up and were thus implemented.
 
 We had a lot of issues with wireless transmission for our foot insole. This was mainly due to a painful time-lag while using the [Particle](http://particle.io/) with it's built in WiFi/cloud service. Hence, we decided to stick to traditional RF and went with the xBee. Fortunately, Tabish our Electrical Engineer had previous experience with foot wearables and RF at his internship with [Atlas Wearables](https://www.atlaswearables.com/) and thus we kept moving forward faster.
 
