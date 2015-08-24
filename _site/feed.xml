@@ -6,8 +6,8 @@
 </description>
     <link>http://imranjameel.com//</link>
     <atom:link href="http://imranjameel.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 11 Aug 2015 02:44:21 -0400</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2015 02:44:21 -0400</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2015 23:27:50 -0400</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2015 23:27:50 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -17,6 +17,42 @@
         <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
         <link>http://imranjameel.com//srilanka</link>
         <guid isPermaLink="true">http://imranjameel.com//srilanka</guid>
+        
+        
+        <category>places</category>
+        
+      </item>
+    
+      <item>
+        <title>Silicon Valley</title>
+        <description>&lt;p&gt;As an aspring engineer and tech entrepreneur, working in the the San Francisco Bay Area (commonly referred to as Silicon Valley), has always been a dream of mine. After countless attempts and rejections at securing an internship in the valley last summer, I was finally offered the role of a Mechanical Engineering Intern at a Wearable Tech startup in Mountain View, CA. However, it turned out that the company was unable to sponsor my work-visa and I got the opptunity. It was heartbreaking, but indeed it motivated me to prove my worth. &lt;/p&gt;
+
+&lt;p&gt;Throughout these past few months, I attended six hackathons in Canada and the US and successfuly won three of them. These wins seemed insignificant to me at that point in time, but in retrospect they definitely gave me a clearer understanding of my passions and goals in life.&lt;/p&gt;
+
+&lt;p&gt;Major League Hacking (MLH)[], an organization based in the states organizes hackathons all over the world. These competitions involve creatives from STEM (science, technology, engineering, math) and even the arts, working on software, hardware, design and fabrication to solve probems thorugh innovation. The 2014/2015 season involved ….. and I was fortunate enough to be identified amongst the top hackers in the world to attend the MLH finale in Mountain View, CA this summer.&lt;/p&gt;
+
+&lt;p&gt;This blog post documents my journey and experience as I explore the valley! &lt;/p&gt;
+
+&lt;h2 id=&quot;day-1&quot;&gt;Day 1&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/bci_devices.jpg&quot; alt=&quot;Hackathon&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;day-2&quot;&gt;Day 2&lt;/h2&gt;
+
+&lt;h2 id=&quot;day-3&quot;&gt;Day 3&lt;/h2&gt;
+
+&lt;h2 id=&quot;day-4&quot;&gt;Day 4&lt;/h2&gt;
+
+&lt;h2 id=&quot;day-5&quot;&gt;Day 5&lt;/h2&gt;
+
+&lt;h2 id=&quot;day-6&quot;&gt;Day 6&lt;/h2&gt;
+
+&lt;h2 id=&quot;day-7&quot;&gt;Day 7&lt;/h2&gt;
+
+</description>
+        <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://imranjameel.com//siliconvalley</link>
+        <guid isPermaLink="true">http://imranjameel.com//siliconvalley</guid>
         
         
         <category>places</category>
@@ -385,19 +421,6 @@
         
         
         <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Sheryl Sandberg</title>
-        <description>
-</description>
-        <pubDate>Thu, 09 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://imranjameel.com//sheryl</link>
-        <guid isPermaLink="true">http://imranjameel.com//sheryl</guid>
-        
-        
-        <category>people</category>
         
       </item>
     
