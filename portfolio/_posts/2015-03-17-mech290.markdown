@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Product Design"
-date:   2015-03-12
+title:  "Mechanical Design"
+date:   2015-03-13
 link:	
 excerpt: designing a mechanism for a folding garage 
 color:  "#3471aa"
@@ -14,7 +14,7 @@ category: portfolio
 ## A Mechanism for Lifting and Lowering the Awning Bar of a Folding Garage
 
 One problem for people who don't have a garage in their house (or enough space in the garage for a second car) is to protect the vehicle parked outside from harsh weather conditions.
-
+http://localhost:4000/wearabletech
 I designed a simple, reliable car shelter made of a foldable awning that can be installed on a wall (or floor), as shown on a figure below. The awning is intended to be used for protection of a vehicle, as needed, by simple folding/unfolding with the help of an electric motor.
 
 ![Statement of Work, MECH 290](/assets/statementofwork.png)
