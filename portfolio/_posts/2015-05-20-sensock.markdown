@@ -12,7 +12,7 @@ category: portfolio
 
 ## SENSOCK 
 
-In May 2015, I visited Toronto to attend the WearHacks Toronto hackathon [WearHacks](https://wearhackstoronto.splashthat.com// "Title"). My partner, Rashad Ajward and I built a smart sock with an integrated biometric sensor system, 'Sensock' to faciliate the evergrowing idea of Remote Patient Monitoring. 
+In May 2015, I visited Toronto to attend the WearHacks Toronto hackathon [WearHacks](https://wearhackstoronto.splashthat.com// "Title"). My partner, Rashad Ajward and I built a smart sock with an integrated biometric sensor system, 'Sensock' to faciliate the evergrowing idea of Remote Patient Monitoring. (Scroll down for video!)
 
 ![Hackathon](/assets/hackathon.jpg)
 
@@ -47,6 +47,10 @@ After burning various sensors, and after multiple visits to [Creatron Inc](https
 In addition to building the hardware, we implemented two APIs. [Plotly](https://plot.ly//// "Title") for data visualisation of the biometrics in real time, and [Twillio](https://www.twilio.com/// "Title") for emegency text message paging upon tapping one's foot on the side of the door.
 
 ##Prototype
+
+<div class="embed-container">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/nCBsaOTV4ko" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ![Final protoype1](/assets/sensockprototype1.jpg)
 
