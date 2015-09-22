@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Product Design"
+date:   2015-03-12
+link:	
+excerpt: designing a mechanism for a folding garage 
+color:  "#3471aa"
+bgimage: "../../assets/pd1.jpg"
+category: portfolio
+
+---
+
+
+## A Mechanism for Lifting and Lowering the Awning Bar of a Folding Garage
+
+One problem for people who don't have a garage in their house (or enough space in the garage for a second car) is to protect the vehicle parked outside from harsh weather conditions.
+
+I designed a simple, reliable car shelter made of a foldable awning that can be installed on a wall (or floor), as shown on a figure below. The awning is intended to be used for protection of a vehicle, as needed, by simple folding/unfolding with the help of an electric motor.
+
+![Statement of Work, MECH 290](/assets/statementofwork.png)
+
+The mission of this project was to develop a simple, reliable car shelter
+made of a foldable awning that can be installed on a floor. The actuator
+mechanism, which will permit the lower bar of the awning to rotate around the
+end adjacent to the wall, will assist the awnings up and down whilst being
+powered via the help of an electric motor. The length of the lower bar is 2.5m,
+and it is capable of rotation around the edge adjacent to the wall. The design
+solution is requested to be safe, use as few parts as possible and have a low
+cost to manufacture and assemble.
+
+The simple and efficient approach I chose will consist of an electric motor
+with an output shaft, two spur gears, a rotating shaft, and a rigid lower awning
+bar, which will be welded to the rotating shaft.
+
+## Sketches
+![Sketch1, MECH 290](/assets/pdsketch1.png)
+
+- More sketches to add.
+
+## 3D CAD Models (SolidWorks)
+
+### Assembly View
+
+![Door Closed, MECH 290](/assets/door-closed.jpg)
+![Assembly View, MECH 290](/assets/assemblyview.jpg)
+
+### Side & Top View
+
+![Side view, MECH 290](/assets/sideview.jpg)
+![Top view, MECH 290](/assets/topview.jpg)
+
+### Gear Mechanism
+
+![Gear-Output Shaft of Work, MECH 290](/assets/gear-output-shaft.jpg)
+
+### Motor + Stand
+
+![Motor Stand View, MECH 290](/assets/motor-stand-view.jpg)
+
+### Rotating Bar for Awning
+
+![Rotating Bar, MECH 290](/assets/rotating-bar.jpg)
+![Rotating Bar Support, MECH 290](/assets/rotating-bar-support.jpg)
+
+## Bill of Materials
+
+![BOM](/assets/mech 290 FR-06.png)
+
+## Manufacturer's Drawings
+
+![Side view, MECH 290](/assets/mech 290 FR-05.png)
+![Side view, MECH 290](/assets/mech 290 FR-07.png)
+![Top view, MECH 290](/assets/mech 290 FR-08.png)
+![Side view, MECH 290](/assets/mech 290 FR-09.png)
+![Top view, MECH 290](/assets/mech 290 FR-10.png)
+![Side view, MECH 290](/assets/mech 290 FR-11.png)
+![Top view, MECH 290](/assets/mech 290 FR-12.png)
+![Side view, MECH 290](/assets/mech 290 FR-13.png)
+![Top view, MECH 290](/assets/mech 290 FR-14.png)
+![Side view, MECH 290](/assets/mech 290 FR-15.png)
+
+
+
