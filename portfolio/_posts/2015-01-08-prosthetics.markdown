@@ -10,6 +10,5 @@ category: portfolio
 
 ---
 
-<!--
-http://cdn.slashgear.com/wp-content/uploads/2014/03/solidooldle-820x420.jpg
--->
+Click [here](/assets/prostheticsreport.pdf) for the project report!
+

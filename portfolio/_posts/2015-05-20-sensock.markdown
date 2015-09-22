@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Biometric Clothing"
-date:   2015-03-13
+date:   2015-03-12
 link:   sensock.github.io
 excerpt: building a smart-sock (SENSOCK) for remote patient monitoring 
 color:  "#3471aa"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gaming"
-date:   2015-03-13
+date:   2015-03-12
 link:   www.reactwearables.xyz
 excerpt: building an immersive wearable gaming experience
 color:  "#5B3E30"
