@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Rhodium"
+date:   2016-01-18
+link:   www.rhodium.io
+excerpt: product design & engineering consulting
+color:  "#FF9092"
+bgimage: "../../assets/idb.png"
+category: portfolio
+
+---
+
+
+Click on link above for more info!
+
+
