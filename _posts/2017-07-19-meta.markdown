@@ -1,0 +1,10 @@
+---
+layout: post
+category: project
+title: "Meta"
+date: 2017-07-19
+thumb: main.png
+color: "#9910FF"
+link: 
+---
+

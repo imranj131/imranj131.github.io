@@ -1,0 +1,95 @@
+// Font weights
+$extra-bold: 800;
+$bold: 700;
+$demi: 600;
+$medium: 500;
+$regular: 400;
+$light: 300;
+
+$base-font-size: 1.2rem;
+
+@font-face {
+  font-family: 'Maison Neue';
+  src: url('/fonts/MaisonNeueWEB-Book.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Maison Neue';
+  src: url('/fonts/MaisonNeueWEB-Medium.woff') format('woff');
+  font-weight: $medium;
+  font-style: normal;
+}
+
+$sans: 'Maison Neue', 'Maison', 'SF UI Text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$mono: 'Inconsolata', 'Source Code Pro', monospace;
+$serif: Georgia, serif;
+
+.mono {
+  font-family: $mono;
+  font-weight: $regular;
+}
+
+h1, %h1, .h1 {
+  font-size: 3rem;
+  letter-spacing: 0.5px;
+  font-family: $sans;
+  font-weight: $medium;
+  line-height: 1.5;
+}
+
+h2, %h2, .h2 {
+  font-size: 1.75rem;
+  line-height: 1.75;
+  margin-bottom: 1rem;
+  font-family: $sans;
+  font-weight: $medium;
+}
+
+h3, %h3, .h3 {
+  font-size: $base-font-size;
+  font-family: $sans;
+  font-weight: $medium;
+  line-height: 1.5;
+}
+
+h5, %h5, .h5 {
+  font-size: 1rem;
+  font-family: $mono;
+  font-weight: $regular;
+  line-height: 1.5;
+  color: $light-gray;
+}
+
+p, .p {
+  font-size: $base-font-size;
+  font-family: $sans;
+  line-height: 2;
+  margin-bottom: 2*$base-font-size;
+  font-weight: $light;
+}
+
+
+strong {
+  font-weight: $medium;
+}
+
+a {
+  font-weight: $medium;
+}
+
+p code {
+  font-family: $mono;
+  padding: .5rem .5rem;
+  background: $lightest-gray;
+  margin: 0 .125rem;
+}
+
+sub, .sub {
+  color: $medium-gray;
+}
+
+.subsub {
+  color: $light-gray;
+}

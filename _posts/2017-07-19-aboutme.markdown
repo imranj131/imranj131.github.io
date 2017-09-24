@@ -1,0 +1,37 @@
+---
+layout: post
+category: article
+title: "About Me"
+date: 2017-07-19
+thumb: main.png
+color: "#9910FF"
+link:
+---
+
+## I am a problem solver and get excited about tackling challenging problems.
+
+### Born and raised in Colombo; built in Montreal; tuned in Silicon Valley.
+
+My insatiable curiosity has led me to explore crossovers in multiple disciplines, from management to entrepreneurship, hardware to software, and product design to manufacturing.
+
+In 2013, I moved to Montreal and started McGill University to study mechanical engineering.
+
+* In 2014, I interned at 3M, a multinational conglomerate.
+
+* In 2015, I interned at reelyActive, an internet of things startup
+
+* In 2016, I co-founded rhodium, a design consultancy.
+
+* In 2017, I interned at Carbon, an additive manufacturing startup.
+
+* In 2018, I hope to graduate and move on to bigger/better things.
+
+I am fascinated by design because it provides the bridge between research and development, art and engineering, technical performance and human behaviour.
+
+I am intrigued by the beauty of mathematics as it assists humanity in search for patterns and continually offers us invaluable insight into our world.
+
+I get excited by working in multidisciplinary teams on moonshot projects.
+
+I love to travel and find inspiration from people, places, and cultures.
+
+I also enjoy road trips, live music, and authentic food.

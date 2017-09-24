@@ -1,0 +1,40 @@
+---
+layout: default
+title: Imran Jameel
+---
+
+<section class="intro">
+	<h2>
+		I like to design experiences and engineer products. <p>
+
+		Born and raised in Colombo; built in Montreal; tuned in Silicon Valley.</br>
+
+		<sub class="subsub">Previously at <a class="intro-link intro-link-3m" href="http://www.3mcompany.lk/3M/en_LK/company-lk/" target="_blank">3M</a>, <a class="intro-link intro-link-reelyactive" href="https://reelyactive.com" target="_blank">reelyActive</a>, <a class="intro-link intro-link-rhodium" href="https://rhodium.io" target="_blank">rhodium</a>, and <a class="intro-link intro-link-carbon" href="http://carbon3d.com" target="_blank">Carbon</a>. </br>
+
+		<sub class="subsub">Currently a senior at <a class="intro-link intro-link-mcgill" href="http://www.mcgill.ca" target="_blank">McGill University</a> studying mechanical engineering.</br>
+		</sub>
+
+		<sub class="subsub">Seeking full-time opportunities in product design and manufacturing.
+		</sub>
+
+
+	</h2>
+</section>
+
+<section>
+	<div class="filter-wrapper">
+	<span>{{ site.posts | size }} posts to explore...</span>
+		<ul class="filter-list">
+			{% for category in site.data.post-categories %}
+			<a href="/{{ category.url }}" class="filter-item"><li>
+				#{{ category.category }}
+			</li></a>
+			{% endfor %}
+		</ul>
+
+	</div>
+</section>
+
+<section>
+	{% include post-index.html style="small" %}
+</section>
