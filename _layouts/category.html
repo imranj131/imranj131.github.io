@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<section>
+  <h1>{{ page.url | slugify | capitalize }}</h1>
+</section>
+
+<section>
+  {% include post-index.html filter=true category=page.category style="feature" %}
+</section>

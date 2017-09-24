@@ -1,0 +1,31 @@
+meta:
+  title: "Imran Jameel"
+  description: "I like to design experiences and engineer products."
+  facebook_image: "/img/dp.png"
+  twitter_image: "/img/dp.png"
+  image: "/img/dp.png"
+  twitter_handle: "@imranj131"
+  domain: "imranjameel.com"
+  url: "http://imranjameel.com"
+  google_analytics_id: "UA-61422829-1"
+  theme_color: "#888888"
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://imranjameel.com" # the base hostname & protocol for your site
+permalink: /:title/ # example: http://jhil.co/bitcamp
+
+i: "/img/{{ page.url | slugify }}"
+
+name: "Imran Jameel"
+markdown: kramdown
+highlighter: pygments
+exclude:
+  - node_modules
+  - gulpfile.js
+  - package.json
+  - README.md
+  - LICENSE.md
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
