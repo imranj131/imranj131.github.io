@@ -1,2 +1,0 @@
-- Run `jekyll serve`
-- Open in `localhost:4000`
