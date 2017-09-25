@@ -1,9 +1,19 @@
 ---
 layout: post
-category: project
+category: work
 title: "Maniflow"
 date: 2017-07-19
 thumb: main.png
 color: "#9910FF"
 link: 
 ---
+
+## Maniflow is a fluid manifold designed to transport fluids in high temperature applications.
+
+Maniflow was completely 3d printed with cyanate ester (CE 221) using Carbon's digital light synthesis (DLS) technology.
+
+{% include i.html src="maniflow-1.png" %}
+
+{% include i.html src="maniflow-2.png" %}
+
+{% include i.html src="maniflow-3.png" %}

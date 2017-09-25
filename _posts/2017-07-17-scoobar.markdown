@@ -1,0 +1,24 @@
+---
+layout: post
+category: work
+title: "Scoobar"
+date: 2017-07-17
+thumb: main.png
+color: "#9910FF"
+link: 
+---
+
+
+## Scoobar is a scooter handlebar designed for a concept vehicle.
+
+Scoobar was 3d printed with a flexible polurethane using Carbon's digital light synthesis (DLS) techonology.
+
+{% include i.html src="scoobar-1.png" %}
+
+It's designed with a voronoi lattice structure that is merged to the mating features of the part for easy assebmly.
+
+{% include i.html src="scoobar-2.png" %}
+
+- Design: Imran Jameel
+- Manufacturing: Carbon DLS™
+- Tools: Onshape, nTopology Element, Magics

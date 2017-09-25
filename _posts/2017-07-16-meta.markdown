@@ -1,0 +1,25 @@
+---
+layout: post
+category: work
+title: "Meta"
+date: 2017-07-16
+thumb: main.png
+color: "#9910FF"
+link: 
+---
+
+## Meta is a wearable wristband designed using mechanical metamaterials.
+
+Meta was 3d printed using a elastomeric polyurethane with Carbon's digital light synthesis (DLS) technology.
+
+{% include i.html src="meta-1.png" %}
+
+The unique feature about Meta is the mechanical metamaterial it is designed with. These are artificial structures with mechanical properties defined by their structure rather than their composition.
+
+{% include i.html src="meta-2.png" %}
+
+This structure features special properties such as constant or near constant force extensions, allowing for bands that have elasticities that feel similar on people with varied wrist/forearm sizes. 
+
+- Design: Imran Jameel
+- Manufacturing: Carbon DLS™
+- Tools: Onshape, Solidworks, Netfabb

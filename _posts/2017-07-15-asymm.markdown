@@ -1,0 +1,29 @@
+---
+layout: post
+category: work
+title: "Asymm"
+date: 2017-07-15
+thumb: main.png
+color: "#9910FF"
+link: 
+---
+
+## Asymm is a cosmetic packaging concept for lipsticks.
+
+Assym was 3d printed with a rigid polyurethane using Carbon's digital light synthesis (DLS) techonology.
+
+{% include i.html src="asymm-1.png" %}
+
+The design was inspired the beauty of asymmetry.
+
+
+{% include i.html src="asymm-2.png" %}
+
+When there is a asymmetrical pattern, our brain lingers on it to try and decipher it. Although this gives us a slightly uneasy feeling, we are drawn to it and fascinated by it at the same time. Our brain stays focused on assymetry longer, to try and spot the inconsistency. This is fascinating and I wanted to explore this concept in a product that people always interact with.
+
+{% include i.html src="flory-3.png" %}
+
+
+- Design: Imran Jameel
+- Manufacturing: Carbon DLS™
+- Tools: Onshape, nTopology Element, Netfabb, Magics

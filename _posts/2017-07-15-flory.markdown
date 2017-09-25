@@ -1,0 +1,29 @@
+---
+layout: post
+category: work
+title: "Flory"
+date: 2017-07-15
+thumb: main.png
+color: "#9910FF"
+link: 
+---
+
+## Flory is a cosmetic packaging concept for a liquid lipstick.
+
+{% include i.html src="flory-1.png" %}
+
+{% include i.html src="flory-2.png" %}
+
+{% include i.html src="flory-3.png" %}
+
+{% include i.html src="flory-4.png" %}
+
+{% include i.html src="flory-5.png" %}
+
+{% include i.html src="flory-6.png" %}
+
+{% include i.html src="flory-7.png" %}
+
+- Design: Imran Jameel
+- Manufacturing: Carbon DLS™
+- Tools: Onshape, nTopology Element, Netfabb, Magics

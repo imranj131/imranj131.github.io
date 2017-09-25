@@ -1,0 +1,10 @@
+---
+layout: post
+category: writing
+title: "Chatbots"
+date: 2016-09-12
+thumb: main.png
+color: "#9910FF"
+link: https://chatbotslife.com/chatbots-the-rise-of-conversational-ui-8a59078e2f95
+---
+

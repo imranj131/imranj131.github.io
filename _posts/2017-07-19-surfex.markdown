@@ -1,6 +1,6 @@
 ---
 layout: post
-category: project
+category: work
 title: "Surfex"
 date: 2017-07-19
 thumb: main.png
@@ -8,3 +8,19 @@ color: "#9910FF"
 link: 
 ---
 
+## Surfex is a grip designed for bikers that want a breathable, non-slip grip for their adventurous trails.
+
+Surfex is a 3d printed bicycle grip.
+
+It was manufactured using Carbon's digital light synthesis (DLS) technology.
+
+It consists of a rigid polyurethane sleeve and an elastomeric polyurethane grip that are thermally bonded to each other. It also comes with an aluminum clamp that assists in fastening it to your handlebar.
+
+Surfex is designed with 3d textures. These are a new type of surface texture that provide tactile feel that go above and beyond (literally) traditionally manufacturable textures. These textures can be tailored to an individuals preferences and customized for an optimal experience.
+
+{% include i.html src="bg.png" %}
+
+
+- Design: Shawn Fortner, Ron Li, Imran Jameel
+- Manufacturing: Carbon DLS™
+- Tools: Onshape, Rhino, Grasshopper, Intralattice, Magics

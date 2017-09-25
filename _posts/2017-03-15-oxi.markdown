@@ -1,0 +1,35 @@
+---
+layout: post
+category: project
+title: "Oxi"
+date: 2017-03-15
+thumb: main.png
+color: "#9910FF"
+link: 
+---
+
+## Oxi, a new line of sleek, wireless earbuds enclosed in a capsule designed to ease into your lifestyle, as easily as your pocket.
+
+
+Oxi was designed as a part of a design challenge for my interview process with Carbon for a summer internship. 
+
+Edit: I got the internship!
+
+(NOTE: THIS IS A CONCEPT I CAME UP WITH AND IT IS NOT AFFILIATED WITH JBL)
+
+{% include i.html src="1.png" %}
+{% include i.html src="2.png" %}
+{% include i.html src="3.png" %}
+{% include i.html src="4.png" %}
+{% include i.html src="5.png" %}
+{% include i.html src="6.png" %}
+{% include i.html src="7.png" %}
+{% include i.html src="8.png" %}
+{% include i.html src="9.png" %}       
+{% include i.html src="10.png" %}       
+{% include i.html src="11png" %}   
+{% include i.html src="12png" %}       
+
+
+- Design: Imran Jameel
+- Tools: SolidWorks, Keyshot

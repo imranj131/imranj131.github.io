@@ -1,0 +1,32 @@
+---
+layout: post
+category: work
+title: "Vorhex"
+date: 2017-07-20
+thumb: main.png
+color: "#9910FF"
+link: 
+---
+### Vorhex is a grip designed for bikers that want an ergonomic, shock-absorbent grip for their demanding trails.
+
+Vorhex is a 3d printed bicycle grip.
+
+It was manufactured using Carbon's digital light synthesis (DLS) technology.
+
+{% include i.html src="vorhex-2.png" %}
+
+It consists of a rigid polyurethane sleeve and an elastomeric polyurethane grip that are thermally bonded to each other. It also comes with an aluminum clamp that assists in fastening it to your handlebar.
+
+{% include i.html src="vorhex-3.png" %}
+
+Vorhex is designed with lattice structures. These are structures that can be tuned to achieve superior mechanical properties that may not be achievable using conventional materials and traditional manufacturing techniques.
+
+{% include i.html src="vorhex-4.png" %}
+
+With tunability of mechanical properties comes bespoke product designs that can be tailored to an individuals wants and needs.
+
+{% include i.html src="bg.png" %}
+
+- Design: Imran Jameel, Ben Kokan
+- Manufacturing: Carbon DLS
+- Tools: Onshape, nTopology Element, Rhino, Grasshopper, Intralattice

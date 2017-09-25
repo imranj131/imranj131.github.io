@@ -1,0 +1,34 @@
+---
+layout: post
+category: work
+title: "Auris"
+date: 2017-07-16
+thumb: main.png
+color: "#9910FF"
+link: 
+---
+
+## Auris is a headphone earpad designed for optimal comfort and compliance.
+
+Auris was 3d printed using an elastomeric polyurethane with Carbon's digital light synthesis (DLS) technoloy.
+
+{% include i.html src="auris-1.png" %}
+
+{% include i.html src="auris-2.png" %}
+
+
+Auris is designed with a conformal lattice structure that wraps around the geometry of an earphone pad.
+
+
+{% include i.html src="auris-3.png" %}
+
+{% include i.html src="auris-4.png" %}
+
+
+
+A lattice is explored as opposed to a foam since there is better control of cell arrangement in lattice materials, whereas foams are generally characterized by a stochastic arrangement of cells.
+
+
+- Design: Imran Jameel
+- Manufacturing: Carbon DLS™
+- Tools: Onshape, nTopology Element, Magics

@@ -1,0 +1,19 @@
+---
+layout: post
+category: work
+title: "Topolo"
+date: 2017-07-18
+thumb: main.png
+color: "#9910FF"
+link: 
+---
+
+## Topolo is a topology optimized bracket designed for an automotive component.
+
+Topolo was 3d printed with a rigid polyurethane using Carbon's digital light synthesis (DLS) technology.
+
+The topology was optimized by defining loading conditions, running an FEA simulation, and minimizing material usage/maximizing stiffness.
+
+- Design: Imran Jameel
+- Manufacturing: Carbon DLS™
+- Tools: Onshape, solidThinking Inspire, Netfabb
