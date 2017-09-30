@@ -8,3 +8,16 @@ color: "#9910FF"
 link: 
 ---
 
+Rashad Ajward, Julien Brillon, and I, teamed up at WearHacks 2015 in Toronto and decided to build this in a weekend. Scroll down for a video demo.
+
+{% include i.html src="1.png" %}
+
+{% include i.html src="2.png" %}
+
+{% include i.html src="3.png" %}
+
+{% include i.html src="4.png" %}
+
+{% include i.html src="5.png" %}
+
+<iframe width="1100" height="619" src="https://www.youtube.com/embed/nCBsaOTV4ko?ecver=1" frameborder="0" allowfullscreen></iframe>

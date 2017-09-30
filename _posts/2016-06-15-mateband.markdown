@@ -1,0 +1,10 @@
+---
+layout: post
+category: startups
+title: "MateBand"
+date: 2016-06-15
+thumb: main.png
+color: "#9910FF"
+external: http://m8band.com/
+---
+

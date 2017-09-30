@@ -18,6 +18,7 @@ i: "/img/{{ page.url | slugify }}"
 
 name: "Imran Jameel"
 markdown: kramdown
+encoding: utf-8
 highlighter: pygments
 exclude:
   - node_modules

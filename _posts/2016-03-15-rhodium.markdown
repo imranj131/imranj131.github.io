@@ -5,6 +5,6 @@ title: "rhodium"
 date: 2016-04-15
 thumb: main.png
 color: "#9910FF"
-link: 
+external: https://rhodium.io/
 ---
 
