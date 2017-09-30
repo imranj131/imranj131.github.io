@@ -5,7 +5,7 @@
   justify-content: space-between;
   align-items: center;
   a {
-    font-weight: $regular;
+    font-weight: $bold;
   }
   & > * {
     display: flex;
@@ -40,6 +40,9 @@
 }
 
 .nav-title {
+  h1{
+  font-weight: $bold;
+  }
 }
 
 .nav-left {

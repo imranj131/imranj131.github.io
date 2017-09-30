@@ -3,7 +3,7 @@ layout: post
 category: work
 title: "advlib"
 date: 2015-12-20
-thumb: privacy-friendly.gif
+thumb: privacy-friendly.png
 color: "#9910FF"
 link: 
 ---
