@@ -1,0 +1,30 @@
+---
+layout: post
+category: work
+title: "advlib"
+date: 2015-12-20
+thumb: privacy-friendly.gif
+color: "#9910FF"
+link: 
+---
+
+advlib is a library I built during my internship at [reelyActive](http://www.reelyactive.com/) in Summer 2015. 
+
+{% include i.html src="main.png" %}
+
+advlib on [Github](https://github.com/reelyactive/advlib/)
+
+advlib on [npm](https://www.npmjs.com/package/advlib)
+
+advlib [browser tool](https://reelyactive.github.io/advlib/)
+
+IEEE scientific [publication](http://ieeexplore.ieee.org/document/7389121/)
+
+{% include i.html src="14.png" %}
+
+{% include i.html src="15.png" %}
+
+{% include i.html src="16.png" %}
+
+
+

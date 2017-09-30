@@ -8,3 +8,22 @@ color: "#9910FF"
 link: 
 ---
 
+In my Machine Element Design course (MECH 393), Julien Brillon, John Cram, and I were given the task to design an accessory gearbox for a turbofan engine.
+
+The project involved conducting preliminary machine design for synthesis of mechanical systems to fulfill performance requirements such as static and fatigue failure prevention. This meant considering multiple mechanical design factors and required us to conduct engineering design calculations for gears, shafts, bearings, fasteners, and the casing. It involved a lot of MS Excel spreadsheets to meet design parameters as well as detailed CAD. After multiple iterations of design, including assembly considerations, we presented our design for the AGB as a technical project report with 3D CAD files and 2D drawings.
+
+{% include i.html src="16.png" %}
+
+{% include i.html src="17.png" %}
+
+{% include i.html src="18.png" %}
+
+{% include i.html src="19.png" %}
+
+{% include i.html src="20.png" %}
+
+{% include i.html src="21.png" %}
+
+{% include i.html src="22.png" %}
+
+{% include i.html src="23.png" %}
